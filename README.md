@@ -51,3 +51,4 @@ The second component of the course will be an in-class presentation during the l
 | 1/14   | Toric varieties, I     |            |
 
 ## References
+**[FLTZ]** B.Fang, C.-C. M. Liu, D. Treumann, and E. Zaslow, A categorification of Morelli's theorem, Invent. Math., vol. 186, no.1, pp.79–114, 2011. DOI: [10.1007/s00222-011-0315-x]([url](https://doi.org/10.1007/s00222-011-0315-x)), [arXiv:1007.0053]([url](https://arxiv.org/abs/1007.0053)).
