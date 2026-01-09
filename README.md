@@ -12,6 +12,14 @@ We'll use the path to this theorem as an opportunity to introduce a number of to
 Our exposition will follow a recent paper of Bai and Hu [BH]. 
 In particular, we plan to explain how to deduce a nonequivariant version of the theorem (originally proved by Kuwagaki) from the equivariant one. 
 
+### Possible topics
++ Toric varieties
++ How to work with ∞-categories
++ Spectra and spectral algebraic geometry
++ Constructible sheaves
++ The six functor formalism on topological spaces
++ Toric mirror symmetry
+
 ## General information
 **Instructor** Peter Haine
 + Office: KAP 248C
@@ -58,4 +66,4 @@ The second component of the course will be an in-class presentation during the l
 
 **[K]** T. Kuwagaki, _The nonequivariant coherent-constructible correspondence for toric stacks_, Duke Math. J., vol. 169, no. 11, pp. 2125–2197, 2020. DOI: [10.1215/00127094-2020-0011](https://doi.org/10.1215/00127094-2020-0011), [arXiv:1610.03214](https://arxiv.org/abs/1610.03214).
 
-**[M]** R. Morelli, _The $\mathrm{K}$-theory of a toric variety_, Adv. Math., vol. 100, no. 2, pp. 154–182, 1993. DOI: [10.1006/aima.1993.1032](https://doi.org/10.1006/aima.1993.1032).
+**[M]** R. Morelli, _The_ $\mathrm{K}$_-theory of a toric variety_, Adv. Math., vol. 100, no. 2, pp. 154–182, 1993. DOI: [10.1006/aima.1993.1032](https://doi.org/10.1006/aima.1993.1032).
