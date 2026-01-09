@@ -1,7 +1,7 @@
 # Math 614, Spring 2026: Mirror symmetry for toric varieties
 
 ## Course description
-Let $X$ be an n-dimensional smooth projective toric variety over the complex numbers. 
+Let $X$ be an $n$-dimensional smooth projective toric variety over the complex numbers. 
 In the 90s, Morelli showed that there is injective homomorphism from the Grothendieck group of torus-equivariant vector bundles on $X$ into constructible functions $\mathbf{R}^n \to \mathbf{Z}$. 
 Moreover, Morelli explicitly identified the image of this map. 
 Around 2010, Fang–Liu–Treumann–Zaslow proved the natural categorification of this: they provided a fully faithful embedding of torus-equivariant quasicoherent sheaves on $X$ into constructible sheaves on $\mathbf{R}^n$. 
