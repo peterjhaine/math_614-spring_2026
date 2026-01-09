@@ -34,7 +34,7 @@ In particular, we plan to explain how to deduce a nonequivariant version of the 
 ## Assignments/Grading
 
 ### Lecture notes
-Shortly after every lecture, I will post detailed handwritten notes for the lecture. The main work for this course will be to type up these notes in a class Overleaf/Git Repo. I'll likely edit them a bit after you type them.
+Shortly after every lecture, [below](#lecture-schedule--notes) I will post detailed handwritten notes for the lecture. The main work for this course will be to type up these notes in a class Overleaf/Git Repo. I'll likely edit them a bit after you type them.
 
 I'll type the notes for the first two lectures. 
 In the first week, we'll create a rotating schedule for typing up the notes. 
