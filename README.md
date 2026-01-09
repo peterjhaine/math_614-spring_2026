@@ -40,7 +40,10 @@ The second component of the course will be an in-class presentation during the l
 ### Grading scheme
 50% typing up lecture notes + 50% final presentation.
 
-## Lecture schedule & handwritten notes
+## Lecture schedule & notes
+
++ [Overleaf link for typed notes]([url](https://www.overleaf.com/read/wcrzmfrdcztc#8fb6da))
++ [Git repo for typed notes]([url](https://github.com/peterjhaine/toric_mirror_symmetry_notes))
 
 | Date  | Lecture title | References |
 | :---  |    :----      | :----      |
