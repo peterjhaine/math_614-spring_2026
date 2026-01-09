@@ -17,11 +17,11 @@ In particular, we plan to explain how to deduce a nonequivariant version of the 
 + Office: KAP 248C
 + e-mail: [phaine@usc.edu](mailto:phaine@usc.edu)
 
-**Course time** Should be 12:00pm–1:20pm on Mondays and Wednesdays, but this still needs to be confirmed.
+**Course time** 12:00pm–1:20pm on Mondays and Wednesdays
 
-**Lecture location** TBD
+**Lecture location** KAP 265 
 
-**Office hour** TBD, but probably Wednesdays at 1:30pm
+**Office hour** Wednesdays at 1:30pm (though we can adjust to a different time if this is inconvenient for people)
 
 ## Assignments/Grading
 
