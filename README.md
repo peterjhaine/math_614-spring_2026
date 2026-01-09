@@ -2,14 +2,14 @@
 
 ## Course description
 Let $X$ be an $n$-dimensional smooth projective toric variety over the complex numbers. 
-In the 90s, Morelli showed that there is injective homomorphism from the Grothendieck group of torus-equivariant vector bundles on $X$ into constructible functions $\mathbf{R}^n \to \mathbf{Z}$. 
+In the 90s, Morelli [M] showed that there is injective homomorphism from the Grothendieck group of torus-equivariant vector bundles on $X$ into constructible functions $\mathbf{R}^n \to \mathbf{Z}$. 
 Moreover, Morelli explicitly identified the image of this map. 
-Around 2010, Fang–Liu–Treumann–Zaslow proved the natural categorification of this: they provided a fully faithful embedding of torus-equivariant quasicoherent sheaves on $X$ into constructible sheaves on $\mathbf{R}^n$. 
+Around 2010, Fang–Liu–Treumann–Zaslow [FLTZ] proved the natural categorification of this: they provided a fully faithful embedding of torus-equivariant quasicoherent sheaves on $X$ into constructible sheaves on $\mathbf{R}^n$. 
 Moreover, they explicitly identified the essential image of their embedding in terms of a microsupport condition. 
 
 To goal of this course is to explain a proof the Fang–Liu–Treumann–Zaslow, however we will prove the result over the sphere spectrum. 
 We'll use the path to this theorem as an opportunity to introduce a number of tools, starting with toric varieties and derived/spectral algebraic geometry, then moving on to tools more specific to the proof. 
-Our exposition will follow a recent paper of Bai and Hu. 
+Our exposition will follow a recent paper of Bai and Hu [BH]. 
 In particular, we plan to explain how to deduce a nonequivariant version of the theorem (originally proved by Kuwagaki) from the equivariant one. 
 
 ## General information
@@ -42,8 +42,8 @@ The second component of the course will be an in-class presentation during the l
 
 ## Lecture schedule & notes
 
-+ [Overleaf link for typed notes]([url](https://www.overleaf.com/read/wcrzmfrdcztc#8fb6da))
-+ [Git repo for typed notes]([url](https://github.com/peterjhaine/toric_mirror_symmetry_notes))
++ [Overleaf for typed notes](https://www.overleaf.com/read/wcrzmfrdcztc#8fb6da)
++ [Git Repo for typed notes](https://github.com/peterjhaine/toric_mirror_symmetry_notes)
 
 | Date  | Lecture title | References |
 | :---  |    :----      | :----      |
@@ -51,4 +51,11 @@ The second component of the course will be an in-class presentation during the l
 | 1/14   | Toric varieties, I     |            |
 
 ## References
-**[FLTZ]** B.Fang, C.-C. M. Liu, D. Treumann, and E. Zaslow, A categorification of Morelli's theorem, Invent. Math., vol. 186, no.1, pp.79–114, 2011. DOI: [10.1007/s00222-011-0315-x]([url](https://doi.org/10.1007/s00222-011-0315-x)), [arXiv:1007.0053]([url](https://arxiv.org/abs/1007.0053)).
+
+**[BH]** Q. Bai and Y. Hu, _Toric mirror symmetry for homotopy theorists_, Jan.2025, [arXiv:2501.06649](https://arxiv.org/abs/2501.06649).
+
+**[FLTZ]** B.Fang, C.-C. M. Liu, D. Treumann, and E. Zaslow, _A categorification of Morelli's theorem_, Invent. Math., vol. 186, no.1, pp.79–114, 2011. DOI: [10.1007/s00222-011-0315-x](https://doi.org/10.1007/s00222-011-0315-x), [arXiv:1007.0053](https://arxiv.org/abs/1007.0053).
+
+**[K]** T. Kuwagaki, _The nonequivariant coherent-constructible correspondence for toric stacks_, Duke Math. J., vol. 169, no. 11, pp. 2125–2197, 2020. DOI: [10.1215/00127094-2020-0011](https://doi.org/10.1215/00127094-2020-0011), [arXiv:1610.03214](https://arxiv.org/abs/1610.03214).
+
+**[M]** R. Morelli, _The $\mathrm{K}$-theory of a toric variety_, Adv. Math., vol. 100, no. 2, pp. 154–182, 1993. DOI: [10.1006/aima.1993.1032](https://doi.org/10.1006/aima.1993.1032).
