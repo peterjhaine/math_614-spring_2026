@@ -25,9 +25,9 @@ In particular, we plan to explain how to deduce a nonequivariant version of the 
 + Office: KAP 248C
 + e-mail: [phaine@usc.edu](mailto:phaine@usc.edu)
 
-**Course time** 12:00pm–1:20pm on Mondays and Wednesdays
+**Time** 12:00pm–1:20pm on Mondays and Wednesdays
 
-**Lecture location** KAP 265 
+**Location** KAP 265 
 
 **Office hour** Wednesdays at 1:30pm (though we can adjust to a different time if this is inconvenient for people)
 
@@ -40,10 +40,11 @@ I'll type the notes for the first two lectures.
 In the first week, we'll create a rotating schedule for typing up the notes. 
 Here are the expectations:
 + You should finish typing the lecture notes by the lecture one week later. (So if you're typing up notes for Wednesday, 1/21, you should do so by Wednesday 1/28).
-+ You should do a nice job of typing the notes, formatting them in a style consistent with the previous notes (using the first two lectures as an example), checking for typos, filling small gaps, and adding references when it makes sense. 
++ You should do a nice job of typing the notes, formatting them in a style consistent with the previous notes (using the first two lectures as an example), checking for typos, filling small gaps, and adding references when it makes sense.
++ Please try to format the LaTeX code nicely (using indentation and putting each sentence on a separate line). This makes editing easier.
 
 ### Final presentation
-The second component of the course will be an in-class presentation during the last weeks of the semester.
+The second component of the course will be an in-class presentation on a topic related to the course, but outside of what we covered. It will be during the last weeks of class. More on this later.
 
 ### Grading scheme
 50% typing up lecture notes + 50% final presentation.
