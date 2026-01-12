@@ -29,7 +29,7 @@ In particular, we plan to explain how to deduce a nonequivariant version of the 
 
 **Location** KAP 265 
 
-**Office hour** Wednesdays at 1:30pm (though we can adjust to a different time if this is inconvenient for people)
+**Office hour** Wednesdays at 2:00pm in KAP 248C (though we can adjust to a different time if this is inconvenient for people)
 
 ## Assignments/Grading
 
@@ -56,7 +56,7 @@ The second component of the course will be an in-class presentation on a topic r
 
 | Date  | Lecture title | References |
 | :---  |    :----      | :----      |
-| 1/12   | Overview     |            | 
+| 1/12   | [Overview](lecture_notes/01-12-2026.pdf)     |            | 
 | 1/14   | Toric varieties, I     |            |
 
 ## References
