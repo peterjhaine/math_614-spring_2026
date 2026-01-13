@@ -58,11 +58,13 @@ The second component of the course will be an in-class presentation on a topic r
 | Date  | Lecture title | References |
 | :---  |    :----:      | :----      |
 | 1/12   | Overview <br> [Notes](lecture_notes/01-12-2026.pdf), [Recording](https://www.youtube.com/watch?v=Vln_P_1s9Fo)  |  [BH, [§1](https://arxiv.org/pdf/2501.06649#section.1)]          | 
-| 1/14   | Toric geometry I     |            |
+| 1/14   | Toric geometry I     |  [F, Chapter 1]          |
 
 ## References
 
 **[BH]** Q. Bai and Y. Hu, _Toric mirror symmetry for homotopy theorists_, Jan.2025, [arXiv:2501.06649](https://arxiv.org/abs/2501.06649).
+
+**[F]** W. Fulton, _Introduction to toric varieties_, Annals of Mathematics Studies. Princeton University Press, Princeton, NJ, 1993, vol. 131, pp. xii+157, ISBN: 0-691-00049-2. DOI: [10.1515/9781400882526](https://doi.org/10.1515/9781400882526), The William H. Roever Lectures in Geometry.
 
 **[FLTZ]** B.Fang, C.-C. M. Liu, D. Treumann, and E. Zaslow, _A categorification of Morelli's theorem_, Invent. Math., vol. 186, no.1, pp.79–114, 2011. DOI: [10.1007/s00222-011-0315-x](https://doi.org/10.1007/s00222-011-0315-x), [arXiv:1007.0053](https://arxiv.org/abs/1007.0053).
 
