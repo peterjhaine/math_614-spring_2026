@@ -12,7 +12,7 @@ We'll use the path to this theorem as an opportunity to introduce a number of to
 Our exposition will follow a recent paper of Bai and Hu [BH]. 
 In particular, we plan to explain how to deduce a nonequivariant version of the theorem (originally proved by Kuwagaki) from the equivariant one. 
 
-### Topics
+### Expected topics
 + Toric geomerty
 + How to work with ∞-categories
 + Spectra and spectral algebraic geometry
