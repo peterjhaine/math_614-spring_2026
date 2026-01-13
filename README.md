@@ -55,10 +55,11 @@ The second component of the course will be an in-class presentation on a topic r
 + [Git Repo for typed notes](https://github.com/peterjhaine/toric_mirror_symmetry_notes)
 
 
-| Date  | Lecture title | References |
-| :---  |    :----:      | :----      |
-| 1/12   | Overview <br> [Notes](lecture_notes/01-12-2026.pdf), [Recording](https://www.youtube.com/watch?v=Vln_P_1s9Fo)  |  [BH, [§1](https://arxiv.org/pdf/2501.06649#section.1)]          | 
-| 1/14   | Toric geometry I     |  [F, Chapter 1]          |
+| Date  | Lecture title | References | Scribe |
+| :---  |    :----:      | :----      | :----      |
+| 1/12   | Overview <br> [Notes](lecture_notes/01-12-2026.pdf), [Recording](https://www.youtube.com/watch?v=Vln_P_1s9Fo)  |  [BH, [§1](https://arxiv.org/pdf/2501.06649#section.1)]          | Peter |
+| 1/14   | Toric geometry I     |  [F, Chapter 1]          | Peter |
+| 1/21   | Toric geometry II     |  [F, Chapter 1]          |  |
 
 ## References
 
