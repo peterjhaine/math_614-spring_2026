@@ -58,7 +58,7 @@ The second component of the course will be an in-class presentation on a topic r
 | Date  | Lecture title | References |
 | :---  |    :----:      | :----      |
 | 1/12   | Overview <br> [Notes](lecture_notes/01-12-2026.pdf), [Recording](https://www.youtube.com/watch?v=Vln_P_1s9Fo)  |  [BH, [§1](https://arxiv.org/pdf/2501.06649#section.1)]          | 
-| 1/14   | Toric varieties, I     |            |
+| 1/14   | Toric geometry I     |            |
 
 ## References
 
