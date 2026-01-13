@@ -54,9 +54,10 @@ The second component of the course will be an in-class presentation on a topic r
 + [Overleaf for typed notes](https://www.overleaf.com/read/wcrzmfrdcztc#8fb6da)
 + [Git Repo for typed notes](https://github.com/peterjhaine/toric_mirror_symmetry_notes)
 
+
 | Date  | Lecture title | References |
-| :---  |    :----      | :----      |
-| 1/12   | [Overview](lecture_notes/01-12-2026.pdf)     |            | 
+| :---  |    :----:      | :----      |
+| 1/12   | Overview <br> [Notes](lecture_notes/01-12-2026.pdf), [Recording](https://www.youtube.com/watch?v=Vln_P_1s9Fo)  |            | 
 | 1/14   | Toric varieties, I     |            |
 
 ## References
