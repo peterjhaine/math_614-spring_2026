@@ -61,7 +61,7 @@ The second component of the course will be an in-class presentation on a topic r
 | 1/14   | Toric geometry I     |  [F, Chapter 1]          | Peter |
 | 1/21   | Toric geometry II     |  [F, Chapter 1]          |  |
 | 1/26   | Toric geometry III     |           |  |
-| 1/28   | Toric geometry III     |           |  |
+| 1/28   |      |           |  |
 | 2/2    |      |           |  |
 | 2/4    |      |           |  |
 | 2/9    |      |           |  |
