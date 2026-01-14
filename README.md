@@ -60,6 +60,31 @@ The second component of the course will be an in-class presentation on a topic r
 | 1/12   | Overview <br> [Notes](lecture_notes/01-12-2026.pdf), [Recording](https://www.youtube.com/watch?v=Vln_P_1s9Fo)  |  [BH, [§1](https://arxiv.org/pdf/2501.06649#section.1)]          | Peter |
 | 1/14   | Toric geometry I     |  [F, Chapter 1]          | Peter |
 | 1/21   | Toric geometry II     |  [F, Chapter 1]          |  |
+| 1/26   | Toric geometry III     |           |  |
+| 1/28   | Toric geometry III     |           |  |
+| 2/2    |      |           |  |
+| 2/4    |      |           |  |
+| 2/9    |      |           |  |
+| 2/11   |      |           |  |
+| 2/18   |      |           |  |
+| 2/23   |      |           |  |
+| 2/25   |      |           |  |
+| 3/2    |      |           |  |
+| 3/4    |      |           |  |
+| 3/9    |      |           |  |
+| 3/11   |      |           |  |
+| 3/23   |      |           |  |
+| 3/25   |      |           |  |
+| 3/30   |      |           |  |
+| 4/1    |      |           |  |
+| 4/6    |      |           |  |
+| 4/8    |      |           |  |
+| 4/13   |      |           |  |
+| 4/15   |      |           |  |
+| 4/20   |      |           |  |
+| 4/22   |      |           |  |
+| 4/27   |      |           |  |
+| 4/29   |      |           |  |
 
 ## References
 
