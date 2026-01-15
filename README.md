@@ -53,38 +53,39 @@ The second component of the course will be an in-class presentation on a topic r
 
 + [Overleaf for typed notes](https://www.overleaf.com/read/wcrzmfrdcztc#8fb6da)
 + [Git Repo for typed notes](https://github.com/peterjhaine/toric_mirror_symmetry_notes)
++ Order that we'll cycle through for typing the notes (after the first two lectures): Baran, Jiayi, Michael, Yahya, Yash, Yijie.
 
 
 | Date  | Lecture title | References | Scribe |
 | :---  |    :----:      | :----      | :----      |
 | 1/12   | Overview <br> [Notes](lecture_notes/01-12-2026.pdf), [Recording](https://www.youtube.com/watch?v=Vln_P_1s9Fo)  |  [BH, [§1](https://arxiv.org/pdf/2501.06649#section.1)]          | Peter |
 | 1/14   | Toric geometry I     |  [F, Chapter 1]          | Peter |
-| 1/21   | Toric geometry II     |  [F, Chapter 1]          |  |
-| 1/26   | Toric geometry III     |           |  |
-| 1/28   |      |           |  |
-| 2/2    |      |           |  |
-| 2/4    |      |           |  |
-| 2/9    |      |           |  |
-| 2/11   |      |           |  |
-| 2/18   |      |           |  |
-| 2/23   |      |           |  |
-| 2/25   |      |           |  |
-| 3/2    |      |           |  |
-| 3/4    |      |           |  |
-| 3/9    |      |           |  |
-| 3/11   |      |           |  |
-| 3/23   |      |           |  |
-| 3/25   |      |           |  |
-| 3/30   |      |           |  |
-| 4/1    |      |           |  |
-| 4/6    |      |           |  |
-| 4/8    |      |           |  |
-| 4/13   |      |           |  |
-| 4/15   |      |           |  |
-| 4/20   |      |           |  |
-| 4/22   |      |           |  |
-| 4/27   |      |           |  |
-| 4/29   |      |           |  |
+| 1/21   | Toric geometry II     |  [F, Chapter 1]          | Baran   |
+| 1/26   | Toric geometry III     |           | Jiayi   |
+| 1/28   |      |           | Michael |
+| 2/2    |      |           | Yahya   |
+| 2/4    |      |           | Yash    |
+| 2/9    |      |           | Yijie   |
+| 2/11   |      |           | Baran   |
+| 2/18   |      |           | Jiayi   |
+| 2/23   |      |           | Michael |
+| 2/25   |      |           | Yahya   |
+| 3/2    |      |           | Yash    |
+| 3/4    |      |           | Yijie   |
+| 3/9    |      |           | Baran   |
+| 3/11   |      |           | Jiayi   |
+| 3/23   |      |           | Michael |
+| 3/25   |      |           | Yahya   |
+| 3/30   |      |           | Yash    |
+| 4/1    |      |           | Yijie   |
+| 4/6    |      |           | Baran   |
+| 4/8    |      |           | Jiayi   |
+| 4/13   |      |           | Michael |
+| 4/15   |      |           | Yahya   |
+| 4/20   |      |           | Yash    |
+| 4/22   |      |           | Yijie   |
+| 4/27   |  Probably final presentations    |           | N/A |
+| 4/29   |  Probably final presentations    |           | N/A |
 
 ## References
 
