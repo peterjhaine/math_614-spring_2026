@@ -51,15 +51,15 @@ The second component of the course will be an in-class presentation on a topic r
 
 ## Lecture schedule & notes
 
-+ [Overleaf for typed notes](https://www.overleaf.com/read/wcrzmfrdcztc#8fb6da)
-+ [Git Repo for typed notes](https://github.com/peterjhaine/toric_mirror_symmetry_notes)
++ [Overleaf for typed notes](https://www.overleaf.com/read/wcrzmfrdcztc#8fb6da) (viewable by anyone with the link)
++ [Git Repo for typed notes](https://github.com/peterjhaine/toric_mirror_symmetry_notes) (to get access, ask me)
 + Order that we'll cycle through for typing the notes (after the first two lectures): Baran, Jiayi, Michael, Yahya, Yash, Yijie.
 
 
 | Date  | Lecture title | References | Scribe |
 | :---  |    :----:      | :----      | :----      |
-| 1/12   | Overview <br> [Notes](lecture_notes/01-12-2026.pdf), [Recording](https://www.youtube.com/watch?v=Vln_P_1s9Fo)  |  [BH, [§1](https://arxiv.org/pdf/2501.06649#section.1)]          | Peter |
-| 1/14   | Toric geometry I     |  [F, Chapter 1]          | Peter |
+| 1/12   | Overview <br> [Notes](lecture_notes/01-12-2026.pdf), [Recording](https://youtu.be/Vln_P_1s9Fo)  |  [BH, [§1](https://arxiv.org/pdf/2501.06649#section.1)]          | Peter |
+| 1/14   | Toric geometry I <br> [Notes](lecture_notes/01-14-2026.pdf), [Recording](https://youtu.be/MfMJuqZ23XA)    |  [F, Chapter 1]          | Peter |
 | 1/21   | Toric geometry II     |  [F, Chapter 1]          | Baran   |
 | 1/26   | Toric geometry III     |           | Jiayi   |
 | 1/28   |      |           | Michael |
