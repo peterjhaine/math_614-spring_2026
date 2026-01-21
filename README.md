@@ -51,7 +51,7 @@ The second component of the course will be an in-class presentation on a topic r
 
 ## Lecture schedule & notes
 
-+ [Overleaf for typed notes](https://www.overleaf.com/read/svgdcmkgqyry#4375f5) (viewable by anyone with the link)
++ [Overleaf for typed notes](https://www.overleaf.com/read/wkgwhjftdpwx#b695bb) (viewable by anyone with the link)
 + [Git Repo for typed notes](https://github.com/peterjhaine/toric_mirror_symmetry_notes) (to get access, ask me)
 + Order that we'll cycle through for typing the notes (after the first two lectures): Baran, Jiayi, Michael, Yahya, Yash, Yijie.
 
