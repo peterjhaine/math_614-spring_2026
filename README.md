@@ -148,7 +148,7 @@ If you have trouble typing them, [quiver](https://q.uiver.app/) is a nice visual
 
 ### Figures
 Especially in the secion on toric geometry, there are a lot of hand-drawn figures in the lecture notes. 
-Please include these in the typed notes by taking a screenshot, adding the `jpeg` (or whatever format) to the `figures` folder, and then using the code
+Please include these in the typed notes by taking a screenshot and saving it as a `pdf` (LaTeX has issues with `jpeg` and other formats), adding the `pdf` to the `figures` folder, and then using the code
 ```
   \begin{figure}[!h]
         \centering
@@ -158,6 +158,7 @@ Please include these in the typed notes by taking a screenshot, adding the `jpeg
     \end{figure}
 ```
 You can also modify the width of the figure to look nicer by replacing `width=\linewidth` by `width=0.6\linewidth` or however wide you want it to be.
+Try to name the figures something indicative (and unique).
 
 Ideally, I would like to make nice versions of all of the images in Adobe Illustrator (like I did for Lecture 2). 
 If you also want to make some nice versions, let me know!
