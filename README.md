@@ -140,6 +140,10 @@ One might notice that in order to make the Fourier tranform identification in \C
 ```
 So you don't need to write the word Proposition or anything—LaTeX takes care of it.
 
+### Equations
+Please don't use the old `$$ … $$` environment for out-of-line equations (see [here](https://tex.stackexchange.com/questions/503/why-is-preferable-to) for why). 
+Instead, use the `equation*` or `equation` environments for single-line equations, and the `align*` or `align` environments for multi-line equations
+
 ### Macros
 For symbols, etc. that are used a lot, please use [macros](https://en.wikibooks.org/wiki/LaTeX/Macros)! For example, instead of writing `\mathbf{R}` every time, just write `\RR`.
 I already have a standard collection in place in `standard_macros.sty`.
