@@ -66,7 +66,7 @@ The second component of the course will be an in-class presentation on a topic r
 |   2     |   W    | 1/14  | Toric geometry I <br> [Notes](lecture_notes/01-14-2026.pdf), [Recording](https://youtu.be/MfMJuqZ23XA)    |  [F, Chapter 1]          | Peter |
 |         |   M    | 1/19   |  MLK Day-No Lecture    |           |    |
 |   3     |   W    | 1/21  | Toric geometry II <br> [Notes](lecture_notes/01-21-2026.pdf), [Recording](https://youtu.be/70ivBuZpZUs)    |  [F, Chapter 1]          | Baran   |
-|   4     |   M    | 1/26  | Toric geometry III <br> [Notes](lecture_notes/01-26-2026.pdf)    |           | Jiayi   |
+|   4     |   M    | 1/26  | Toric geometry III <br> [Notes](lecture_notes/01-26-2026.pdf), [Recording](https://youtu.be/lZkx98dk_NM)   | [F, Chapter 1]          | Jiayi   |
 |   5     |   W    | 1/28  | Toric geometry IV     |           | Michael |
 |   6     |   M    | 2/2   |      |           | Yahya   |
 |   7     |   W    | 2/4   |      |           | Yash    |
