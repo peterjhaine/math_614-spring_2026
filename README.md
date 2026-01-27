@@ -64,7 +64,7 @@ The second component of the course will be an in-class presentation on a topic r
 | :----:  | :----: | :---  |    :----:      | :----      | :----      |
 |   1     |   M    | 1/12  | Overview <br> [Notes](lecture_notes/01-12-2026.pdf), [Recording](https://youtu.be/Vln_P_1s9Fo)  |  [BH, [§1](https://arxiv.org/pdf/2501.06649#section.1)]          | Peter |
 |   2     |   W    | 1/14  | Toric geometry I: <br> Monoid algebras & cones <br> [Notes](lecture_notes/01-14-2026.pdf), [Recording](https://youtu.be/MfMJuqZ23XA)    |  [F, Chapter 1]          | Peter |
-|         |   M    | 1/19   |  MLK Day-No Lecture    |           |    |
+|         |   M    | 1/19   |  **MLK Day** <br> No Lecture    |           |    |
 |   3     |   W    | 1/21  | Toric geometry II: <br> Fans & toric schemes <br> [Notes](lecture_notes/01-21-2026.pdf), [Recording](https://youtu.be/70ivBuZpZUs)    |  [F, Chapter 1]          | Baran   |
 |   4     |   M    | 1/26  | Toric geometry III: <br> Results from convex geometry <br> [Notes](lecture_notes/01-26-2026.pdf), [Recording](https://youtu.be/lZkx98dk_NM)   | [F, Chapter 1]          | Jiayi   |
 |   5     |   W    | 1/28  | Toric geometry IV: <br> Smoothness, properness, & polytopes     |           | Michael |
@@ -72,7 +72,7 @@ The second component of the course will be an in-class presentation on a topic r
 |   7     |   W    | 2/4   |      |           | Yash    |
 |   8     |   M    | 2/9   |      |           | Yijie   |
 |   9     |   W    | 2/11  |      |           | Baran   |
-|         |   M    | 1/19  |  Presidents' Day-No Lecture    |           |    |
+|         |   M    | 1/19  |  **Presidents' Day** <br> No Lecture    |           |    |
 |   10    |   W    | 2/18  |      |           | Jiayi   |
 |   11    |   M    | 2/23  |      |           | Michael |
 |   12    |   W    | 2/25  |      |           | Yahya   |
@@ -80,8 +80,8 @@ The second component of the course will be an in-class presentation on a topic r
 |   14    |   W    | 3/4   |      |           | Yijie   |
 |   15    |   M    | 3/9   |      |           | Baran   |
 |   16    |   W    | 3/11  |      |           | Jiayi   |
-|         |   M    | 3/16  |  Spring Break-No Lecture    |           |    |
-|         |   W    | 3/18  |  Spring Break-No Lecture    |           |    |
+|         |   M    | 3/16  |  **Spring Break** <br> No Lecture    |           |    |
+|         |   W    | 3/18  |  **Spring Break** <br> No Lecture    |           |    |
 |   17    |   M    | 3/23  |      |           | Michael |
 |   18    |   W    | 3/25  |      |           | Yahya   |
 |   19    |   M    | 3/30  |      |           | Yash    |
