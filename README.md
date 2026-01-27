@@ -38,10 +38,14 @@ Shortly after every lecture, [below](#lecture-schedule--notes) I will post detai
 
 I'll type the notes for the first two lectures. 
 In the first week, we'll create a rotating schedule for typing up the notes. 
-Here are the expectations:
-+ You should finish typing the lecture notes by the lecture one week later. (So if you're typing up notes for Wednesday, 1/21, you should do so by Wednesday 1/28).
+Here are the basic expectations:
++ You should finish typing the lecture notes by the lecture one week later.
+  (So if you're typing up notes for Wednesday, 1/21, you should do so by Wednesday 1/28).
 + You should do a nice job of typing the notes, formatting them in a style consistent with the previous notes (using the first two lectures as an example), checking for typos, filling small gaps, and adding references when it makes sense.
-+ Please try to format the LaTeX code nicely (using indentation and putting each sentence on a separate line). This makes editing easier.
++ Please try to format the LaTeX code nicely.
+  This makes editing easier.
+
+[Below](#guidelines-for-typing-up-the-lecture-notes) you can find detailed guidelines for typing up the notes.
 
 ### Final presentation
 The second component of the course will be an in-class presentation on a topic related to the course, but outside of what we covered. It will be during the last weeks of class. More on this later.
@@ -60,9 +64,9 @@ The second component of the course will be an in-class presentation on a topic r
 | :---  |    :----:      | :----      | :----      |
 | 1/12   | Overview <br> [Notes](lecture_notes/01-12-2026.pdf), [Recording](https://youtu.be/Vln_P_1s9Fo)  |  [BH, [§1](https://arxiv.org/pdf/2501.06649#section.1)]          | Peter |
 | 1/14   | Toric geometry I <br> [Notes](lecture_notes/01-14-2026.pdf), [Recording](https://youtu.be/MfMJuqZ23XA)    |  [F, Chapter 1]          | Peter |
-| 1/21   | Toric geometry II <br> [Recording](https://youtu.be/70ivBuZpZUs)    |  [F, Chapter 1]          | Baran   |
+| 1/21   | Toric geometry II <br> [Notes](lecture_notes/01-21-2026.pdf), [Recording](https://youtu.be/70ivBuZpZUs)    |  [F, Chapter 1]          | Baran   |
 | 1/26   | Toric geometry III     |           | Jiayi   |
-| 1/28   |      |           | Michael |
+| 1/28   | Toric geometry IV     |           | Michael |
 | 2/2    |      |           | Yahya   |
 | 2/4    |      |           | Yash    |
 | 2/9    |      |           | Yijie   |
@@ -98,3 +102,63 @@ The second component of the course will be an in-class presentation on a topic r
 **[K]** T. Kuwagaki, _The nonequivariant coherent-constructible correspondence for toric stacks_, Duke Math. J., vol. 169, no. 11, pp. 2125–2197, 2020. DOI: [10.1215/00127094-2020-0011](https://doi.org/10.1215/00127094-2020-0011), [arXiv:1610.03214](https://arxiv.org/abs/1610.03214).
 
 **[M]** R. Morelli, _The_ $\mathrm{K}$_-theory of a toric variety_, Adv. Math., vol. 100, no. 2, pp. 154–182, 1993. DOI: [10.1006/aima.1993.1032](https://doi.org/10.1006/aima.1993.1032).
+
+## Guidelines for typing up the lecture notes
+Before your first time typing up notes, start by looking over the notes from Lectures 1 & 2 along with their LaTeX code.
+Use both the writing style and code as models for how to type the notes for the lectures you're assigned. 
+If you have any questions, math-related, LaTeX-related, or otherwise, please ask!
+
+### General LaTeX guidelines
+The goal is to format the code nicely and use the convenient hyperlinking that LaTeX provides.
++ Please write every sentence as a separate line of code.
+  This makes things much easier to edit in the future.
++ Please use indentations when using environments.
++ Make reasonable labels for theorems, equations, etc. that you refer back to, using underscores to separate words. For example, `prop:compatibility_with_Fourier_transform`.
+
+Below is a good example demonstrating the previous three points:
+```
+\begin{theorem}[(Fourier transform)]\label{thm:Fourier_transform}
+  Let $ n \geq 1 $ be an integer.
+  There is an equivalence of \categories
+  \begin{equation*}
+    \begin{tikzcd}[sep=3em]
+      \FT \colon \QCoh(\Bup((\GGm)^{\cross n})) \arrow[r, "\sim"{yshift=-0.25em}] & \Sh(\ZZ^n;\Sp) = \Fun(\ZZ^n,\Sp) \period
+    \end{tikzcd}
+  \end{equation*}
+  Here, on the right-hand sides we regard $ \ZZ^n $ as a discrete topological space and as a discrete category.
+  Moreover, this equivalence is symmetric monoidal where the left-hand side is given the usual tensor product of quasicoherent sheaves and the right-hand side is given the convolution product.
+\end{theorem}
+```
+
++ When you refer back to theorems, equations, etc. use the [`cleveref`](https://ctan.org/pkg/cleveref?lang=en) package. That way, the environment name will be included and it will be hyperlinked properly. For example, you'd refer to the thorem with label `prop:compatibility_with_Fourier_transform` by typing `\Cref{prop:compatibility_with_Fourier_transform}`. Here is a good example of this:
+```
+One might notice that in order to make the Fourier tranform identification in \Cref{prop:compatibility_with_Fourier_transform}, we really need to choose an isomorphism $ T \equivalent (\GGm)^{\cross n} $.
+```
+So you don't need to write the word Proposition or anything—LaTeX takes care of it.
+
+### Macros
+For symbols, etc. that are used a lot, please use [macros](https://en.wikibooks.org/wiki/LaTeX/Macros)! For example, instead of writing `\mathbf{R}` every time, just write `\RR`.
+I already have a standard collection in place in `standard_macros.sty`.
+You can look there for already existing things.
+If you want to add a new macro, please feel free to do so, but add it to `document_macros.sty` (and not in the main document or  `standard_macros.sty`).
+
+### Commutative diagrams
+Use the [`tikzcd`](https://ctan.math.washington.edu/tex-archive/graphics/pgf/contrib/tikz-cd/tikz-cd-doc.pdf) package for diagrams. 
+If you have trouble typing them, [quiver](https://q.uiver.app/) is a nice visual interface—you can just copy the code from there.
+
+### Figures
+Especially in the secion on toric geometry, there are a lot of hand-drawn figures in the lecture notes. 
+Please include these in the typed notes by taking a screenshot and saving it as a `pdf` (LaTeX has issues with `jpeg` and other formats), adding the `pdf` to the `figures` folder, and then using the code
+```
+  \begin{figure}[!h]
+        \centering
+        \includegraphics[width=\linewidth]{figures/figure_name.jpeg}
+        \caption{A caption}
+        \label{fig:figure_label}
+    \end{figure}
+```
+You can also modify the width of the figure to look nicer by replacing `width=\linewidth` by `width=0.6\linewidth` or however wide you want it to be.
+Try to name the figures something indicative (and unique).
+
+Ideally, I would like to make nice versions of all of the images in Adobe Illustrator (like I did for Lecture 2). 
+If you also want to make some nice versions, let me know!
