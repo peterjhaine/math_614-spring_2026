@@ -54,6 +54,7 @@ The second component of the course will be an in-class presentation on a topic r
 50% typing up lecture notes + 50% final presentation.
 
 ## Lecture schedule & notes
+The topics of the lectures that haven't yet been given are tentative.
 
 + [Overleaf for typed notes](https://www.overleaf.com/read/kpkwrssmtzrm#f9bb46) (viewable by anyone with the link)
 + [Git Repo for typed notes](https://github.com/peterjhaine/toric_mirror_symmetry_notes) (to get access, ask me)
@@ -67,15 +68,15 @@ The second component of the course will be an in-class presentation on a topic r
 |         |   M    | 1/19   |  **MLK Day** <br> No Lecture    |           |    |
 |   3     |   W    | 1/21  | Toric geometry II: <br> Fans & toric schemes <br> [Notes](lecture_notes/01-21-2026.pdf), [Recording](https://youtu.be/70ivBuZpZUs)    |  [F, Chapter 1]          | Baran   |
 |   4     |   M    | 1/26  | Toric geometry III: <br> Results from convex geometry <br> [Notes](lecture_notes/01-26-2026.pdf), [Recording](https://youtu.be/lZkx98dk_NM)   | [F, Chapter 1]          | Jiayi   |
-|   5     |   W    | 1/28  | Toric geometry IV: <br> Smoothness, properness, & polytopes     |           | Michael |
-|   6     |   M    | 2/2   |      |           | Yahya   |
-|   7     |   W    | 2/4   |      |           | Yash    |
-|   8     |   M    | 2/9   |      |           | Yijie   |
-|   9     |   W    | 2/11  |      |           | Baran   |
+|   5     |   W    | 1/28  | Toric geometry IV: <br> Smoothness & properness    |           | Michael |
+|   6     |   M    | 2/2   | Toric geometry V: <br> Polytopes    |           | Yahya   |
+|   7     |   W    | 2/4   | Introduction to ∞-categories I     |           | Yash    |
+|   8     |   M    | 2/9   | Introduction to ∞-categories II      |           | Yijie   |
+|   9     |   W    | 2/11  | Spectra I     |           | Baran   |
 |         |   M    | 1/19  |  **Presidents' Day** <br> No Lecture    |           |    |
-|   10    |   W    | 2/18  |      |           | Jiayi   |
-|   11    |   M    | 2/23  |      |           | Michael |
-|   12    |   W    | 2/25  |      |           | Yahya   |
+|   10    |   W    | 2/18  | Spectra II     |           | Jiayi   |
+|   11    |   M    | 2/23  | Spectral algebraic geometry I     |           | Michael |
+|   12    |   W    | 2/25  | Spectral algebraic geometry II     |           | Yahya   |
 |   13    |   M    | 3/2   |      |           | Yash    |
 |   14    |   W    | 3/4   |      |           | Yijie   |
 |   15    |   M    | 3/9   |      |           | Baran   |
