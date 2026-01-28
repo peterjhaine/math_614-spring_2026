@@ -54,7 +54,7 @@ The second component of the course will be an in-class presentation on a topic r
 50% typing up lecture notes + 50% final presentation.
 
 ## Lecture schedule & notes
-The topics of the lectures that haven't yet been given are tentative.
+_The topics of the lectures that haven't yet been given are tentative._
 
 + [Overleaf for typed notes](https://www.overleaf.com/read/kpkwrssmtzrm#f9bb46) (viewable by anyone with the link)
 + [Git Repo for typed notes](https://github.com/peterjhaine/toric_mirror_symmetry_notes) (to get access, ask me)
