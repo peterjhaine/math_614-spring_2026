@@ -54,42 +54,47 @@ The second component of the course will be an in-class presentation on a topic r
 50% typing up lecture notes + 50% final presentation.
 
 ## Lecture schedule & notes
+_The topics of the lectures that haven't yet been given are tentative._
 
 + [Overleaf for typed notes](https://www.overleaf.com/read/kpkwrssmtzrm#f9bb46) (viewable by anyone with the link)
 + [Git Repo for typed notes](https://github.com/peterjhaine/toric_mirror_symmetry_notes) (to get access, ask me)
 + Order that we'll cycle through for typing the notes (after the first two lectures): Baran, Jiayi, Michael, Yahya, Yash, Yijie.
 
 
-| Date  | Lecture title | References | Scribe |
-| :---  |    :----:      | :----      | :----      |
-| 1/12   | Overview <br> [Notes](lecture_notes/01-12-2026.pdf), [Recording](https://youtu.be/Vln_P_1s9Fo)  |  [BH, [§1](https://arxiv.org/pdf/2501.06649#section.1)]          | Peter |
-| 1/14   | Toric geometry I <br> [Notes](lecture_notes/01-14-2026.pdf), [Recording](https://youtu.be/MfMJuqZ23XA)    |  [F, Chapter 1]          | Peter |
-| 1/21   | Toric geometry II <br> [Notes](lecture_notes/01-21-2026.pdf), [Recording](https://youtu.be/70ivBuZpZUs)    |  [F, Chapter 1]          | Baran   |
-| 1/26   | Toric geometry III     |           | Jiayi   |
-| 1/28   | Toric geometry IV     |           | Michael |
-| 2/2    |      |           | Yahya   |
-| 2/4    |      |           | Yash    |
-| 2/9    |      |           | Yijie   |
-| 2/11   |      |           | Baran   |
-| 2/18   |      |           | Jiayi   |
-| 2/23   |      |           | Michael |
-| 2/25   |      |           | Yahya   |
-| 3/2    |      |           | Yash    |
-| 3/4    |      |           | Yijie   |
-| 3/9    |      |           | Baran   |
-| 3/11   |      |           | Jiayi   |
-| 3/23   |      |           | Michael |
-| 3/25   |      |           | Yahya   |
-| 3/30   |      |           | Yash    |
-| 4/1    |      |           | Yijie   |
-| 4/6    |      |           | Baran   |
-| 4/8    |      |           | Jiayi   |
-| 4/13   |      |           | Michael |
-| 4/15   |      |           | Yahya   |
-| 4/20   |      |           | Yash    |
-| 4/22   |      |           | Yijie   |
-| 4/27   |  Probably final presentations    |           | N/A |
-| 4/29   |  Probably final presentations    |           | N/A |
+|   \#    |   Day  | Date  | Lecture title | References | Scribe |
+| :----:  | :----: | :---  |    :----:      | :----      | :----      |
+|   1     |   M    | 1/12  | Overview <br> [Notes](lecture_notes/01-12-2026.pdf), [Recording](https://youtu.be/Vln_P_1s9Fo)  |  [BH, [§1](https://arxiv.org/pdf/2501.06649#section.1)]          | Peter |
+|   2     |   W    | 1/14  | Toric geometry I: <br> Monoid algebras & cones <br> [Notes](lecture_notes/01-14-2026.pdf), [Recording](https://youtu.be/MfMJuqZ23XA)    |  [F, Chapter 1]          | Peter |
+|         |   M    | 1/19   |  **MLK Day** <br> No Lecture    |           |    |
+|   3     |   W    | 1/21  | Toric geometry II: <br> Fans & toric schemes <br> [Notes](lecture_notes/01-21-2026.pdf), [Recording](https://youtu.be/70ivBuZpZUs)    |  [F, Chapter 1]          | Baran   |
+|   4     |   M    | 1/26  | Toric geometry III: <br> Results from convex geometry <br> [Notes](lecture_notes/01-26-2026.pdf), [Recording](https://youtu.be/lZkx98dk_NM)   | [F, Chapter 1]          | Jiayi   |
+|   5     |   W    | 1/28  | Toric geometry IV: <br> Functoriality & smoothness <br> [Recording](https://youtu.be/S2f9Zr6V-oo)   |   [F, §§2.1 & 2.4]        | Michael |
+|   6     |   M    | 2/2   | Toric geometry V: <br> Properness & polytopes    |           | Yahya   |
+|   7     |   W    | 2/4   | Introduction to ∞-categories I     |           | Yash    |
+|   8     |   M    | 2/9   | Introduction to ∞-categories II      |           | Yijie   |
+|   9     |   W    | 2/11  | Spectra I     |           | Baran   |
+|         |   M    | 1/19  |  **Presidents' Day** <br> No Lecture    |           |    |
+|   10    |   W    | 2/18  | Spectra II     |           | Jiayi   |
+|   11    |   M    | 2/23  | Spectral algebraic geometry I     |           | Michael |
+|   12    |   W    | 2/25  | Spectral algebraic geometry II     |           | Yahya   |
+|   13    |   M    | 3/2   |      |           | Yash    |
+|   14    |   W    | 3/4   |      |           | Yijie   |
+|   15    |   M    | 3/9   |      |           | Baran   |
+|   16    |   W    | 3/11  |      |           | Jiayi   |
+|         |   M    | 3/16  |  **Spring Break** <br> No Lecture    |           |    |
+|         |   W    | 3/18  |  **Spring Break** <br> No Lecture    |           |    |
+|   17    |   M    | 3/23  |      |           | Michael |
+|   18    |   W    | 3/25  |      |           | Yahya   |
+|   19    |   M    | 3/30  |      |           | Yash    |
+|   20    |   W    | 4/1   |      |           | Yijie   |
+|   21    |   M    | 4/6   |      |           | Baran   |
+|   22    |   W    | 4/8   |      |           | Jiayi   |
+|   23    |   M    | 4/13  |      |           | Michael |
+|   24    |   W    | 4/15  |      |           | Yahya   |
+|   25    |   M    | 4/20  |      |           | Yash    |
+|   26    |   W    | 4/22  |      |           | Yijie   |
+|   27    |   M    | 4/27  |  Probably final presentations    |           | N/A |
+|   28    |   W    | 4/29  |  Probably final presentations    |           | N/A |
 
 ## References
 
@@ -135,6 +140,10 @@ Below is a good example demonstrating the previous three points:
 One might notice that in order to make the Fourier tranform identification in \Cref{prop:compatibility_with_Fourier_transform}, we really need to choose an isomorphism $ T \equivalent (\GGm)^{\cross n} $.
 ```
 So you don't need to write the word Proposition or anything—LaTeX takes care of it.
+
+### Equations
+Please don't use the old `$$ … $$` environment for out-of-line equations (see [here](https://tex.stackexchange.com/questions/503/why-is-preferable-to) for why). 
+Instead, use the `equation*` or `equation` environments for single-line equations, and the `align*` or `align` environments for multi-line equations
 
 ### Macros
 For symbols, etc. that are used a lot, please use [macros](https://en.wikibooks.org/wiki/LaTeX/Macros)! For example, instead of writing `\mathbf{R}` every time, just write `\RR`.
