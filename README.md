@@ -69,7 +69,7 @@ _The topics of the lectures that haven't yet been given are tentative._
 |   3     |   W    | 1/21  | Toric geometry II: <br> Fans & toric schemes <br> [Notes](lecture_notes/01-21-2026.pdf), [Recording](https://youtu.be/70ivBuZpZUs)    |  [F, Chapter 1]          | Baran   |
 |   4     |   M    | 1/26  | Toric geometry III: <br> Results from convex geometry <br> [Notes](lecture_notes/01-26-2026.pdf), [Recording](https://youtu.be/lZkx98dk_NM)   | [F, Chapter 1]          | Jiayi   |
 |   5     |   W    | 1/28  | Toric geometry IV: <br> Functoriality & smoothness <br> [Notes](lecture_notes/01-28-2026.pdf), [Recording](https://youtu.be/S2f9Zr6V-oo) |   [F, §2.1]        | Michael |
-|   6     |   M    | 2/2   | Toric geometry V: <br> Properness & polytopes    | [F, §§1.5, 2.4, & 3.4]          | Yahya   |
+|   6     |   M    | 2/2   | Toric geometry V: <br> Properness & polytopes <br> [Notes](lecture_notes/02-02-2026.pdf), [Recording](https://youtu.be/MO99ZampdQA)   | [F, §§1.5, 2.4, & 3.4]          | Yahya   |
 |   7     |   W    | 2/4   | Introduction to ∞-categories I     |           | Yash    |
 |   8     |   M    | 2/9   | Introduction to ∞-categories II      |           | Yijie   |
 |   9     |   W    | 2/11  | Spectra I     |           | Baran   |
