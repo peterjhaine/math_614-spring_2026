@@ -70,7 +70,7 @@ _The topics of the lectures that haven't yet been given are tentative._
 |   4     |   M    | 1/26  | Toric geometry III: <br> Results from convex geometry <br> [Notes](lecture_notes/01-26-2026.pdf), [Recording](https://youtu.be/lZkx98dk_NM)   | [F, Chapter 1]          | Jiayi   |
 |   5     |   W    | 1/28  | Toric geometry IV: <br> Functoriality & smoothness <br> [Notes](lecture_notes/01-28-2026.pdf), [Recording](https://youtu.be/S2f9Zr6V-oo) |   [F, §2.1]        | Michael |
 |   6     |   M    | 2/2   | Toric geometry V: <br> Properness & polytopes <br> [Notes](lecture_notes/02-02-2026.pdf), [Recording](https://youtu.be/MO99ZampdQA)   | [F, §§1.5, 2.4]          | Yahya   |
-|   7     |   W    | 2/4   |  Toric geometry VI: <br> Torus-equivariant divisors & polytopes    | [F, §3.4]          | Yash    |
+|   7     |   W    | 2/4   |  Toric geometry VI: <br> Torus-equivariant divisors & polytopes <br> [Notes](lecture_notes/02-04-2026.pdf)    | [F, §3.4]          | Yash    |
 |   8     |   M    | 2/9   | Introduction to ∞-categories I     |           | Yijie   |
 |   9     |   W    | 2/11  | Introduction to ∞-categories II    |           | Baran   |
 |         |   M    | 1/19  | **Presidents' Day** <br> No Lecture    |           |    |
