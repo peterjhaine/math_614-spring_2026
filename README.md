@@ -25,7 +25,7 @@ In particular, we plan to explain how to deduce a nonequivariant version of the 
 + Office: KAP 248C
 + e-mail: [phaine@usc.edu](mailto:phaine@usc.edu)
 
-**Time** 12:00pm–1:20pm on Mondays and Wednesdays
+**Time** 12:00pm–1:20pm on Mondays and Wednesdays, occassionally a Friday may replace some lectures
 
 **Location** KAP 265 
 
@@ -60,6 +60,8 @@ _The topics of the lectures that haven't yet been given are tentative._
 + [Git Repo for typed notes](https://github.com/peterjhaine/toric_mirror_symmetry_notes) (to get access, ask me)
 + Order that we'll cycle through for typing the notes (after the first two lectures): Baran, Jiayi, Michael, Yahya, Yash, Yijie.
 
+[**Zoom link for any online lectures**](https://usc.zoom.us/j/98589530508?pwd=hVHu7e5haipMekaYUBw4OSD4SLEsRC.1)
+
 
 |   \#    |   Day  | Date  | Lecture title | References | Scribe |
 | :----:  | :----: | :---  |    :----:      | :----      | :----      |
@@ -71,16 +73,17 @@ _The topics of the lectures that haven't yet been given are tentative._
 |   5     |   W    | 1/28  | Toric geometry IV: <br> Functoriality & smoothness <br> [Notes](lecture_notes/01-28-2026.pdf), [Recording](https://youtu.be/S2f9Zr6V-oo) |   [F, §2.1]        | Michael |
 |   6     |   M    | 2/2   | Toric geometry V: <br> Properness & polytopes <br> [Notes](lecture_notes/02-02-2026.pdf), [Recording](https://youtu.be/MO99ZampdQA)   | [F, §§1.5, 2.4]          | Yahya   |
 |   7     |   W    | 2/4   |  Toric geometry VI: <br> Torus-equivariant divisors & polytopes <br> [Notes](lecture_notes/02-04-2026.pdf)    | [F, §3.4]          | Yash    |
-|   8     |   M    | 2/9   | Introduction to ∞-categories I     |           | Yijie   |
-|   9     |   W    | 2/11  | Introduction to ∞-categories II    |           | Baran   |
-|         |   M    | 1/19  | **Presidents' Day** <br> No Lecture    |           |    |
-|   10    |   W    | 2/18  | Spectra I     |           | Jiayi   |
-|   11    |   M    | 2/23  | Spectra II     |           | Michael |
-|   12    |   W    | 2/25  | Spectral algebraic geometry I     |           | Yahya   |
-|   13    |   M    | 3/2   | Spectral algebraic geometry II     |           | Yash    |
-|   14    |   W    | 3/4   |      |           | Yijie   |
-|   15    |   M    | 3/9   |      |           | Baran   |
-|   16    |   W    | 3/11  |      |           | Jiayi   |
+|         |   M    | 2/9   | **No Lecture**     |           |    |
+|   8     |   W    | 2/11   | Introduction to ∞-categories I     |           | Yijie   |
+|         |   M    | 2/16  | **Presidents' Day** <br> No Lecture    |           |    |
+|   9     |   W    | 2/18  | Introduction to ∞-categories II    |           | Baran   |
+|   10    |   M    | 2/23  | Spectra I     |           | Jiayi   |
+|   11    |   W    | 2/25  | Spectra II     |           | Michael |
+|   12    |   W    | 3/4   | Spectral algebraic geometry I     |           | Yahya   |
+|   13    |   F    | 3/6   | Spectral algebraic geometry II     |           | Yash    |
+|   14    |   M    | 3/9   |      |           | Yijie   |
+|   15    |   W    | 3/11  |      |           | Baran   |
+|   16    |   F    | 3/13  |      |           | Jiayi   |
 |         |   M    | 3/16  |  **Spring Break** <br> No Lecture    |           |    |
 |         |   W    | 3/18  |  **Spring Break** <br> No Lecture    |           |    |
 |   17    |   M    | 3/23  |      |           | Michael |
