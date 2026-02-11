@@ -74,7 +74,7 @@ _The topics of the lectures that haven't yet been given are tentative._
 |   6     |   M    | 2/2   | Toric geometry V: <br> Properness & polytopes <br> [Notes](lecture_notes/02-02-2026.pdf), [Recording](https://youtu.be/MO99ZampdQA)   | [F, §§1.5, 2.4]          | Yahya   |
 |   7     |   W    | 2/4   |  Toric geometry VI: <br> Torus-equivariant divisors & polytopes <br> [Notes](lecture_notes/02-04-2026.pdf), [Recording](https://youtu.be/ibrvIcWAogo)    | [F, §3.4]          | Yash    |
 |         |   M    | 2/9   | **No Lecture**     |           |    |
-|   8     |   W    | 2/11   | Introduction to ∞-categories I <br> [Notes](lecture_notes/02-11-2026.pdf)     |           | Yijie   |
+|   8     |   W    | 2/11   | Introduction to ∞-categories I <br> [Notes](lecture_notes/02-11-2026.pdf), [Recording](https://youtu.be/mSTgGZuNNW8)     |           | Yijie   |
 |         |   M    | 2/16  | **Presidents' Day** <br> No Lecture    |           |    |
 |   9     |   W    | 2/18  | Introduction to ∞-categories II    |           | Baran   |
 |   10    |   M    | 2/23  | Spectra I     |           | Jiayi   |
