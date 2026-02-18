@@ -74,9 +74,9 @@ _The topics of the lectures that haven't yet been given are tentative._
 |   6     |   M    | 2/2   | Toric geometry V: <br> Properness & polytopes <br> [Notes](lecture_notes/02-02-2026.pdf), [Recording](https://youtu.be/MO99ZampdQA)   | [F, §§1.5, 2.4]          | Yahya   |
 |   7     |   W    | 2/4   |  Toric geometry VI: <br> Torus-equivariant divisors & polytopes <br> [Notes](lecture_notes/02-04-2026.pdf), [Recording](https://youtu.be/ibrvIcWAogo)    | [F, §3.4]          | Yash    |
 |         |   M    | 2/9   | **No Lecture**     |           |    |
-|   8     |   W    | 2/11   | Introduction to ∞-categories I <br> [Notes](lecture_notes/02-11-2026.pdf)     |           | Yijie   |
+|   8     |   W    | 2/11   | Introduction to ∞-categories I <br> [Notes](lecture_notes/02-11-2026.pdf), [Recording](https://youtu.be/mSTgGZuNNW8)     |     [C, Chapter 1]      | Yijie   |
 |         |   M    | 2/16  | **Presidents' Day** <br> No Lecture    |           |    |
-|   9     |   W    | 2/18  | Introduction to ∞-categories II    |           | Baran   |
+|   9     |   W    | 2/18  | Introduction to ∞-categories II    |     [C, Chapter 1]      | Baran   |
 |   10    |   M    | 2/23  | Spectra I     |           | Jiayi   |
 |   11    |   W    | 2/25  | Spectra II     |           | Michael |
 |   12    |   W    | 3/4   | Spectral algebraic geometry I     |           | Yahya   |
@@ -102,6 +102,8 @@ _The topics of the lectures that haven't yet been given are tentative._
 ## References
 
 **[BH]** Q. Bai and Y. Hu, _Toric mirror symmetry for homotopy theorists_, Jan.2025, [arXiv:2501.06649](https://arxiv.org/abs/2501.06649).
+
+**[C]** B. Cnossen, _Stable homotopy theory and higher algebra_, Book in progress, available at [sites.google.com/view/bastiaan-cnossen/home](https://sites.google.com/view/bastiaan-cnossen/home).
 
 **[F]** W. Fulton, _Introduction to toric varieties_, Annals of Mathematics Studies. Princeton University Press, Princeton, NJ, 1993, vol. 131, pp. xii+157, ISBN: 0-691-00049-2. DOI: [10.1515/9781400882526](https://doi.org/10.1515/9781400882526), The William H. Roever Lectures in Geometry.
 
