@@ -76,7 +76,7 @@ _The topics of the lectures that haven't yet been given are tentative._
 |         |   M    | 2/9   | **No Lecture**     |           |    |
 |   8     |   W    | 2/11   | Introduction to ∞-categories I <br> [Notes](lecture_notes/02-11-2026.pdf), [Recording](https://youtu.be/mSTgGZuNNW8)     |     [C, Chapter 1]      | Yijie   |
 |         |   M    | 2/16  | **Presidents' Day** <br> No Lecture    |           |    |
-|   9     |   W    | 2/18  | Introduction to ∞-categories II    |     [C, Chapter 1]      | Baran   |
+|   9     |   W    | 2/18  | Introduction to ∞-categories II <br> [Notes](lecture_notes/02-18-2026.pdf)   |     [C, Chapter 1]      | Baran   |
 |   10    |   M    | 2/23  | Spectra I     |           | Jiayi   |
 |   11    |   W    | 2/25  | Spectra II     |           | Michael |
 |   12    |   W    | 3/4   | Spectral algebraic geometry I     |           | Yahya   |
