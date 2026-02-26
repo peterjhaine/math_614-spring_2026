@@ -77,11 +77,11 @@ _The topics of the lectures that haven't yet been given are tentative._
 |   8     |   W    | 2/11   | Introduction to ∞-categories I <br> [Notes](lecture_notes/02-11-2026.pdf), [Recording](https://youtu.be/mSTgGZuNNW8)     |     [C, Chapter 1]      | Yijie   |
 |         |   M    | 2/16  | **Presidents' Day** <br> No Lecture    |           |    |
 |   9     |   W    | 2/18  | Introduction to ∞-categories II <br> [Notes](lecture_notes/02-18-2026.pdf), [Recording](https://youtu.be/iAT_rQZ6GHg)   |     [C, Chapter 1]      | Baran   |
-|   10    |   M    | 2/23  | More on higher categories and (commutative) monoids <br> [Notes](lecture_notes/02-23-2026.pdf), [Recording](https://youtu.be/jMFlpmDazZg)    |           | Jiayi   |
-|   11    |   W    | 2/25  | Spectra     |           | Michael |
-|   12    |   W    | 3/4   | Spectral algebraic geometry I     |           | Yahya   |
-|   13    |   F    | 3/6   | Spectral algebraic geometry II     |           | Yash    |
-|   14    |   M    | 3/9   |      |           | Yijie   |
+|   10    |   M    | 2/23  | More on higher categories and (commutative) monoids <br> [Notes](lecture_notes/02-23-2026.pdf), [Recording](https://youtu.be/jMFlpmDazZg)    |  [C, Chapter 4]         | Jiayi   |
+|   11    |   W    | 2/25  | Spectra I <br> [Notes](lecture_notes/02-25-2026.pdf), [Recording](https://youtu.be/tcZ4L0TwKeQ)     | [C, Chapter 3]          | Michael |
+|   12    |   W    | 3/4   | Spectra II     |           | Yahya   |
+|   13    |   F    | 3/6   | Spectral algebraic geometry I     |           | Yash    |
+|   14    |   M    | 3/9   | Spectral algebraic geometry II     |           | Yijie   |
 |   15    |   W    | 3/11  |      |           | Baran   |
 |   16    |   F    | 3/13  |      |           | Jiayi   |
 |         |   M    | 3/16  |  **Spring Break** <br> No Lecture    |           |    |
