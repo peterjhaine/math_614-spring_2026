@@ -27,7 +27,7 @@ In particular, we plan to explain how to deduce a nonequivariant version of the 
 
 **Time** 12:00pm–1:20pm on Mondays and Wednesdays, occassionally a Friday may replace some lectures
 
-**Location** KAP 265 
+**Location** KAP 427 ~KAP 265~ 
 
 **Office hour** Wednesdays at 2:00pm in KAP 248C (though we can adjust to a different time if this is inconvenient for people)
 
