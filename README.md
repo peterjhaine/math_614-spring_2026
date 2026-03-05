@@ -79,7 +79,7 @@ _The topics of the lectures that haven't yet been given are tentative._
 |   9     |   W    | 2/18  | Introduction to ∞-categories II <br> [Notes](lecture_notes/02-18-2026.pdf), [Recording](https://youtu.be/iAT_rQZ6GHg)   |     [C, Chapter 1]      | Baran   |
 |   10    |   M    | 2/23  | More on higher categories and (commutative) monoids <br> [Notes](lecture_notes/02-23-2026.pdf), [Recording](https://youtu.be/jMFlpmDazZg)    |  [C, Chapter 4]         | Jiayi   |
 |   11    |   W    | 2/25  | Spectra I <br> [Notes](lecture_notes/02-25-2026.pdf), [Recording](https://youtu.be/tcZ4L0TwKeQ)     | [C, Chapter 3]          | Michael |
-|   12    |   W    | 3/4   | Spectra II     |           | Yahya   |
+|   12    |   W    | 3/4   | Spectra II <br> [Notes](lecture_notes/03-05-2026.pdf), [Recording](https://youtu.be/tbjHwgT0nhQ)    | [C, Chapter 3]          | Yahya   |
 |   13    |   F    | 3/6   | Spectral algebraic geometry I     |           | Yash    |
 |   14    |   M    | 3/9   | Spectral algebraic geometry II     |           | Yijie   |
 |   15    |   W    | 3/11  |      |           | Baran   |
