@@ -79,10 +79,10 @@ _The topics of the lectures that haven't yet been given are tentative._
 |   9     |   W    | 2/18  | Introduction to ∞-categories II <br> [Notes](lecture_notes/02-18-2026.pdf), [Recording](https://youtu.be/iAT_rQZ6GHg)   |     [C, Chapter 1]      | Baran   |
 |   10    |   M    | 2/23  | More on higher categories and (commutative) monoids <br> [Notes](lecture_notes/02-23-2026.pdf), [Recording](https://youtu.be/jMFlpmDazZg)    |  [C, Chapter 4]         | Jiayi   |
 |   11    |   W    | 2/25  | Spectra I <br> [Notes](lecture_notes/02-25-2026.pdf), [Recording](https://youtu.be/tcZ4L0TwKeQ)     | [C, Chapter 3]          | Michael |
-|   12    |   W    | 3/4   | Spectra II <br> [Notes](lecture_notes/03-05-2026.pdf), [Recording](https://youtu.be/tbjHwgT0nhQ)    | [C, Chapter 3]          | Yahya   |
-|   13    |   F    | 3/6   | Spectral algebraic geometry I     |           | Yash    |
-|   14    |   M    | 3/9   | Spectral algebraic geometry II     |           | Yijie   |
-|   15    |   W    | 3/11  |      |           | Baran   |
+|   12    |   W    | 3/4   | Spectra II <br> [Notes](lecture_notes/03-04-2026.pdf), [Recording](https://youtu.be/tbjHwgT0nhQ)    | [C, Chapter 3]          | Yahya   |
+|   13    |   F    | 3/6   | Spectra III/Review of the functor of points br> [Notes](lecture_notes/03-06-2026.pdf), [Recording](https://youtu.be/QtdX0pZdpFA)   | [C, §§16.2–16.3; H]          | Yash    |
+|   14    |   M    | 3/9   | Spectral algebraic geometry I     |           | Yijie   |
+|   15    |   W    | 3/11  | Spectral algebraic geometry II     |           | Baran   |
 |   16    |   F    | 3/13  |      |           | Jiayi   |
 |         |   M    | 3/16  |  **Spring Break** <br> No Lecture    |           |    |
 |         |   W    | 3/18  |  **Spring Break** <br> No Lecture    |           |    |
@@ -108,6 +108,8 @@ _The topics of the lectures that haven't yet been given are tentative._
 **[F]** W. Fulton, _Introduction to toric varieties_, Annals of Mathematics Studies. Princeton University Press, Princeton, NJ, 1993, vol. 131, pp. xii+157, ISBN: 0-691-00049-2. DOI: [10.1515/9781400882526](https://doi.org/10.1515/9781400882526), The William H. Roever Lectures in Geometry.
 
 **[FLTZ]** B.Fang, C.-C. M. Liu, D. Treumann, and E. Zaslow, _A categorification of Morelli's theorem_, Invent. Math., vol. 186, no.1, pp.79–114, 2011. DOI: [10.1007/s00222-011-0315-x](https://doi.org/10.1007/s00222-011-0315-x), [arXiv:1007.0053](https://arxiv.org/abs/1007.0053).
+
+**[H]** M. Hoyois, _Algebraic geometry_, Lecture notes, available at [hoyois.app.uni-regensburg.de/WS26/alggeo1/script.pdf](https://hoyois.app.uni-regensburg.de/WS26/alggeo1/script.pdf).
 
 **[K]** T. Kuwagaki, _The nonequivariant coherent-constructible correspondence for toric stacks_, Duke Math. J., vol. 169, no. 11, pp. 2125–2197, 2020. DOI: [10.1215/00127094-2020-0011](https://doi.org/10.1215/00127094-2020-0011), [arXiv:1610.03214](https://arxiv.org/abs/1610.03214).
 
