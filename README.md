@@ -81,9 +81,9 @@ _The topics of the lectures that haven't yet been given are tentative._
 |   11    |   W    | 2/25  | Spectra I <br> [Notes](lecture_notes/02-25-2026.pdf), [Recording](https://youtu.be/tcZ4L0TwKeQ)     | [C, Chapter 3]          | Michael |
 |   12    |   W    | 3/4   | Spectra II <br> [Notes](lecture_notes/03-04-2026.pdf), [Recording](https://youtu.be/tbjHwgT0nhQ)    | [C, Chapter 3]          | Yahya   |
 |   13    |   F    | 3/6   | Spectra III/Review of the functor of points <br> [Notes](lecture_notes/03-06-2026.pdf), [Recording](https://youtu.be/QtdX0pZdpFA)   | [C, §§16.2–16.3; H, §§2.7 & 7.1]          | Yash    |
-|   14    |   M    | 3/9   | Spectral algebraic geometry I     |           | Yijie   |
-|   15    |   W    | 3/11  | Spectral algebraic geometry II     |           | Baran   |
-|   16    |   F    | 3/13  |      |           | Jiayi   |
+|   14    |   M    | 3/9   | More on the functor of points <br> [Notes](lecture_notes/03-09-2026.pdf), [Recording](https://youtu.be/L1azQ64I5vs)    |  [H, §4]         | Yijie   |
+|   15    |   W    | 3/11  | Spectral algebraic geometry I     |           | Baran   |
+|   16    |   F    | 3/13  | Spectral algebraic geometry II     |           | Jiayi   |
 |         |   M    | 3/16  |  **Spring Break** <br> No Lecture    |           |    |
 |         |   W    | 3/18  |  **Spring Break** <br> No Lecture    |           |    |
 |   17    |   M    | 3/23  |      |           | Michael |
