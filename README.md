@@ -83,7 +83,7 @@ _The topics of the lectures that haven't yet been given are tentative._
 |   13    |   F    | 3/6   | Spectra III/Review of the functor of points <br> [Notes](lecture_notes/03-06-2026.pdf), [Recording](https://youtu.be/QtdX0pZdpFA)   | [C, §§16.2–16.3; H, §§2.7 & 7.1]          | Yash    |
 |   14    |   M    | 3/9   | More on the functor of points <br> [Notes](lecture_notes/03-09-2026.pdf), [Recording](https://youtu.be/L1azQ64I5vs)    |  [H, §4]         | Yijie   |
 |   15    |   W    | 3/11  | Spectral algebraic geometry I <br> [Notes](lecture_notes/03-11-2026.pdf), [Recording](https://youtu.be/v5FIxrDYN_o)   | [C, §5.1]          | Baran   |
-|   16    |   F    | 3/13  | Spectral algebraic geometry II     |           | Jiayi   |
+|   16    |   F    | 3/13  | Spectral algebraic geometry II <br> [Notes](lecture_notes/03-13-2026.pdf), [Recording](https://youtu.be/hby9xqlOMe0)    | [HTT, [§6.5.4](https://www.math.ias.edu/~lurie/papers/HTT.pdf#subsection.6.5.4)]        | Jiayi   |
 |         |   M    | 3/16  |  **Spring Break** <br> No Lecture    |           |    |
 |         |   W    | 3/18  |  **Spring Break** <br> No Lecture    |           |    |
 |   17    |   M    | 3/23  |      |           | Michael |
@@ -110,6 +110,8 @@ _The topics of the lectures that haven't yet been given are tentative._
 **[FLTZ]** B.Fang, C.-C. M. Liu, D. Treumann, and E. Zaslow, _A categorification of Morelli's theorem_, Invent. Math., vol. 186, no.1, pp.79–114, 2011. DOI: [10.1007/s00222-011-0315-x](https://doi.org/10.1007/s00222-011-0315-x), [arXiv:1007.0053](https://arxiv.org/abs/1007.0053).
 
 **[H]** M. Hoyois, _Algebraic geometry_, Lecture notes, available at [hoyois.app.uni-regensburg.de/WS26/alggeo1/script.pdf](https://hoyois.app.uni-regensburg.de/WS26/alggeo1/script.pdf).
+
+**[HTT]** J.Lurie, _Higher topos theory_, Annals of Mathematics Studies. Princeton, NJ: Princeton University Press, 2009, vol. 170, pp. xviii+925, ISBN:978-0-691-14049-0;0-691-14049-9. Available at [math.ias.edu/~lurie/papers/HTT.pdf](https://www.math.ias.edu/~lurie/papers/HTT.pdf).
 
 **[K]** T. Kuwagaki, _The nonequivariant coherent-constructible correspondence for toric stacks_, Duke Math. J., vol. 169, no. 11, pp. 2125–2197, 2020. DOI: [10.1215/00127094-2020-0011](https://doi.org/10.1215/00127094-2020-0011), [arXiv:1610.03214](https://arxiv.org/abs/1610.03214).
 
