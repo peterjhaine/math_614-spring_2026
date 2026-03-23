@@ -86,7 +86,7 @@ _The topics of the lectures that haven't yet been given are tentative._
 |   16    |   F    | 3/13  | Spectral algebraic geometry II <br> [Notes](lecture_notes/03-13-2026.pdf), [Recording](https://youtu.be/hby9xqlOMe0)    | [HTT, [§6.5.4](https://www.math.ias.edu/~lurie/papers/HTT.pdf#subsection.6.5.4)]        | Jiayi   |
 |         |   M    | 3/16  |  **Spring Break** <br> No Lecture    |           |    |
 |         |   W    | 3/18  |  **Spring Break** <br> No Lecture    |           |    |
-|   17    |   M    | 3/23  | Starting the proof of toric mirror symmetry <br> [Notes](lecture_notes/03-23-2026.pdf)     |           | Michael |
+|   17    |   M    | 3/23  | Starting the proof of toric mirror symmetry <br> [Notes](lecture_notes/03-23-2026.pdf)     | [BH, §§1.2 & 2], and for idempotent algebras see [CSY, [§5.1](https://arxiv.org/pdf/2007.13089#subsection.5.1); HA, [§4.8.2](https://www.math.ias.edu/~lurie/papers/HA.pdf#subsection.4.8.2)]         | Michael |
 |   18    |   W    | 3/25  |      |           | Yahya   |
 |   19    |   M    | 3/30  |      |           | Yash    |
 |   20    |   W    | 4/1   |      |           | Yijie   |
@@ -105,11 +105,15 @@ _The topics of the lectures that haven't yet been given are tentative._
 
 **[C]** B. Cnossen, _Stable homotopy theory and higher algebra_, Book in progress, available at [sites.google.com/view/bastiaan-cnossen/home](https://sites.google.com/view/bastiaan-cnossen/home).
 
+**[CSY]** S. Carmeli, T. M. Schlank, and L. Yanovski, _Ambidexterity and height_, Adv. Math., vol. 385, Paper No. 107763, 90, 2021. DOI: [10.1016/j.aim.2021.107763](https://doi.org/10.1016/j.aim.2021.107763), [arXiv:2007.13089](https://arxiv.org/abs/2007.13089).
+
 **[F]** W. Fulton, _Introduction to toric varieties_, Annals of Mathematics Studies. Princeton University Press, Princeton, NJ, 1993, vol. 131, pp. xii+157, ISBN: 0-691-00049-2. DOI: [10.1515/9781400882526](https://doi.org/10.1515/9781400882526), The William H. Roever Lectures in Geometry.
 
 **[FLTZ]** B.Fang, C.-C. M. Liu, D. Treumann, and E. Zaslow, _A categorification of Morelli's theorem_, Invent. Math., vol. 186, no.1, pp.79–114, 2011. DOI: [10.1007/s00222-011-0315-x](https://doi.org/10.1007/s00222-011-0315-x), [arXiv:1007.0053](https://arxiv.org/abs/1007.0053).
 
 **[H]** M. Hoyois, _Algebraic geometry_, Lecture notes, available at [hoyois.app.uni-regensburg.de/WS26/alggeo1/script.pdf](https://hoyois.app.uni-regensburg.de/WS26/alggeo1/script.pdf).
+
+**[HA]** J.Lurie, _Higher algebra_, Sep. 2017. Available at [math.ias.edu/~lurie/papers/HA.pdf](https://www.math.ias.edu/~lurie/papers/HA.pdf).
 
 **[HTT]** J.Lurie, _Higher topos theory_, Annals of Mathematics Studies. Princeton, NJ: Princeton University Press, 2009, vol. 170, pp. xviii+925, ISBN:978-0-691-14049-0;0-691-14049-9. Available at [math.ias.edu/~lurie/papers/HTT.pdf](https://www.math.ias.edu/~lurie/papers/HTT.pdf).
 
