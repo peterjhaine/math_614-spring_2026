@@ -86,7 +86,7 @@ _The topics of the lectures that haven't yet been given are tentative._
 |   16    |   F    | 3/13  | Spectral algebraic geometry II <br> [Notes](lecture_notes/03-13-2026.pdf), [Recording](https://youtu.be/hby9xqlOMe0)    | [HTT, [§6.5.4](https://www.math.ias.edu/~lurie/papers/HTT.pdf#subsection.6.5.4)]        | Jiayi   |
 |         |   M    | 3/16  |  **Spring Break** <br> No Lecture    |           |    |
 |         |   W    | 3/18  |  **Spring Break** <br> No Lecture    |           |    |
-|   17    |   M    | 3/23  |      |           | Michael |
+|   17    |   M    | 3/23  | Starting the proof of toric mirror symmetry <br> [Notes](lecture_notes/03-23-2026.pdf)     |           | Michael |
 |   18    |   W    | 3/25  |      |           | Yahya   |
 |   19    |   M    | 3/30  |      |           | Yash    |
 |   20    |   W    | 4/1   |      |           | Yijie   |
