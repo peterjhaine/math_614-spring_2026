@@ -86,8 +86,8 @@ _The topics of the lectures that haven't yet been given are tentative._
 |   16    |   F    | 3/13  | Spectral algebraic geometry II <br> [Notes](lecture_notes/03-13-2026.pdf), [Recording](https://youtu.be/hby9xqlOMe0)    | [HTT, [§6.5.4](https://www.math.ias.edu/~lurie/papers/HTT.pdf#subsection.6.5.4)]        | Jiayi   |
 |         |   M    | 3/16  |  **Spring Break** <br> No Lecture    |           |    |
 |         |   W    | 3/18  |  **Spring Break** <br> No Lecture    |           |    |
-|   17    |   M    | 3/23  | Starting the proof of toric mirror symmetry <br> [Notes](lecture_notes/03-23-2026.pdf), [Recording](https://youtu.be/68bQHOEq3O0)   | [BH, §§1.2 & 2], and for idempotent algebras see [CSY, [§5.1](https://arxiv.org/pdf/2007.13089#subsection.5.1); HA, [§4.8.2](https://www.math.ias.edu/~lurie/papers/HA.pdf#subsection.4.8.2)]         | Michael |
-|   18    |   W    | 3/25  | Quasicoherent sheaves on affine toric stacks I <br> [Notes](lecture_notes/03-25-2026.pdf)     |           | Yahya   |
+|   17    |   M    | 3/23  | Starting the proof of toric mirror symmetry <br> [Notes](lecture_notes/03-23-2026.pdf), [Recording](https://youtu.be/68bQHOEq3O0)   | [BH, §§[1.2](https://arxiv.org/pdf/2501.06649#subsection.1.2) & [2](https://arxiv.org/pdf/2501.06649#section.2)], and for idempotent algebras see [CSY, [§5.1](https://arxiv.org/pdf/2007.13089#subsection.5.1); HA, [§4.8.2](https://www.math.ias.edu/~lurie/papers/HA.pdf#subsection.4.8.2)]         | Michael |
+|   18    |   W    | 3/25  | Quasicoherent sheaves on affine toric stacks I <br> [Notes](lecture_notes/03-25-2026.pdf), [Recording](https://youtu.be/CZ63xk6luy0)     | [BH, [§3]((https://arxiv.org/pdf/2501.06649#section.3))]          | Yahya   |
 |   19    |   M    | 3/30  |      |           | Yash    |
 |   20    |   W    | 4/1   |      |           | Yijie   |
 |   21    |   M    | 4/6   |      |           | Baran   |
