@@ -88,8 +88,8 @@ _The topics of the lectures that haven't yet been given are tentative._
 |         |   W    | 3/18  |  **Spring Break** <br> No Lecture    |           |    |
 |   17    |   M    | 3/23  | Starting the proof of toric mirror symmetry <br> [Notes](lecture_notes/03-23-2026.pdf), [Recording](https://youtu.be/68bQHOEq3O0)   | [BH, §§[1.2](https://arxiv.org/pdf/2501.06649#subsection.1.2) & [2](https://arxiv.org/pdf/2501.06649#section.2)], and for idempotent algebras see [CSY, [§5.1](https://arxiv.org/pdf/2007.13089#subsection.5.1); HA, [§4.8.2](https://www.math.ias.edu/~lurie/papers/HA.pdf#subsection.4.8.2)]         | Michael |
 |   18    |   W    | 3/25  | Quasicoherent sheaves on affine toric stacks I <br> [Notes](lecture_notes/03-25-2026.pdf), [Recording](https://youtu.be/CZ63xk6luy0)     | [BH, [[§3](https://arxiv.org/pdf/2501.06649#section.3)]          | Yahya   |
-|   19    |   M    | 3/30  |      |           | Yash    |
-|   20    |   W    | 4/1   |      |           | Yijie   |
+|   19    |   M    | 3/30  | Quasicoherent sheaves on affine toric stacks II <br> [Notes](lecture_notes/03-30-2026.pdf), [Recording](https://youtu.be/pVBzlK-NWOk)    | [BH, [[§3](https://arxiv.org/pdf/2501.06649#section.3)], split simplicial objects [Kerodon, [Tag 04S6](https://kerodon.net/tag/04S6)], (co)monadic descent [HA, [§4.7.5](https://www.math.ias.edu/~lurie/papers/HA.pdf#subsection.4.7.5)],           | Yash    |
+|   20    |   W    | 4/1   | Quasicoherent sheaves on affine toric stacks III     |           | Yijie   |
 |   21    |   M    | 4/6   |      |           | Baran   |
 |   22    |   W    | 4/8   |      |           | Jiayi   |
 |   23    |   M    | 4/13  |      |           | Michael |
@@ -113,11 +113,13 @@ _The topics of the lectures that haven't yet been given are tentative._
 
 **[H]** M. Hoyois, _Algebraic geometry_, Lecture notes, available at [hoyois.app.uni-regensburg.de/WS26/alggeo1/script.pdf](https://hoyois.app.uni-regensburg.de/WS26/alggeo1/script.pdf).
 
-**[HA]** J.Lurie, _Higher algebra_, Sep. 2017. Available at [math.ias.edu/~lurie/papers/HA.pdf](https://www.math.ias.edu/~lurie/papers/HA.pdf).
+**[HA]** J. Lurie, _Higher algebra_, Sep. 2017. Available at [math.ias.edu/~lurie/papers/HA.pdf](https://www.math.ias.edu/~lurie/papers/HA.pdf).
 
-**[HTT]** J.Lurie, _Higher topos theory_, Annals of Mathematics Studies. Princeton, NJ: Princeton University Press, 2009, vol. 170, pp. xviii+925, ISBN:978-0-691-14049-0;0-691-14049-9. Available at [math.ias.edu/~lurie/papers/HTT.pdf](https://www.math.ias.edu/~lurie/papers/HTT.pdf).
+**[HTT]** J. Lurie, _Higher topos theory_, Annals of Mathematics Studies. Princeton, NJ: Princeton University Press, 2009, vol. 170, pp. xviii+925, ISBN:978-0-691-14049-0;0-691-14049-9. Available at [math.ias.edu/~lurie/papers/HTT.pdf](https://www.math.ias.edu/~lurie/papers/HTT.pdf).
 
 **[K]** T. Kuwagaki, _The nonequivariant coherent-constructible correspondence for toric stacks_, Duke Math. J., vol. 169, no. 11, pp. 2125–2197, 2020. DOI: [10.1215/00127094-2020-0011](https://doi.org/10.1215/00127094-2020-0011), [arXiv:1610.03214](https://arxiv.org/abs/1610.03214).
+
+**[Kerodon]** J. Lurie, _Kerodon_, [kerodon.net](https://kerodon.net/).
 
 **[M]** R. Morelli, _The_ $\mathrm{K}$_-theory of a toric variety_, Adv. Math., vol. 100, no. 2, pp. 154–182, 1993. DOI: [10.1006/aima.1993.1032](https://doi.org/10.1006/aima.1993.1032).
 
