@@ -89,15 +89,15 @@ _The topics of the lectures that haven't yet been given are tentative._
 |   17    |   M    | 3/23  | Starting the proof of toric mirror symmetry <br> [Notes](lecture_notes/03-23-2026.pdf), [Recording](https://youtu.be/68bQHOEq3O0)   | [BH, §§[1.2](https://arxiv.org/pdf/2501.06649#subsection.1.2) & [2](https://arxiv.org/pdf/2501.06649#section.2)], and for idempotent algebras see [CSY, [§5.1](https://arxiv.org/pdf/2007.13089#subsection.5.1); HA, [§4.8.2](https://www.math.ias.edu/~lurie/papers/HA.pdf#subsection.4.8.2)]         | Michael |
 |   18    |   W    | 3/25  | Quasicoherent sheaves on affine toric stacks I <br> [Notes](lecture_notes/03-25-2026.pdf), [Recording](https://youtu.be/CZ63xk6luy0)     | [BH, [§3](https://arxiv.org/pdf/2501.06649#section.3)]          | Yahya   |
 |   19    |   M    | 3/30  | Quasicoherent sheaves on affine toric stacks II <br> [Notes](lecture_notes/03-30-2026.pdf), [Recording](https://youtu.be/pVBzlK-NWOk)    | [BH, [§3](https://arxiv.org/pdf/2501.06649#section.3)], split simplicial objects [Kerodon, [Tag 04S6](https://kerodon.net/tag/04S6)], (co)monadic descent [HA, [§4.7.5](https://www.math.ias.edu/~lurie/papers/HA.pdf#subsection.4.7.5)],           | Yash    |
-|   20    |   W    | 4/1   | Quasicoherent sheaves on affine toric stacks III     |           | Yijie   |
-|   21    |   M    | 4/6   |      |           | Baran   |
-|   22    |   W    | 4/8   |      |           | Jiayi   |
+|   20    |   W    | 4/1   | Quasicoherent sheaves on affine toric stacks III <br> [Notes](lecture_notes/04-01-2026.pdf)    | [BH, [§3.3](https://arxiv.org/pdf/2501.06649#subsection.3.3)], monads [HA; [§4.7](https://www.math.ias.edu/~lurie/papers/HA.pdf#section.4.7); R, [Chapter 5](https://emilyriehl.github.io/files/context.pdf#chapter.5)]          | Yijie   |
+|   21    |   W    | 4/8   |      |           | Baran   |
+|   22    |   F    | 4/10  |      |           | Jiayi   |
 |   23    |   M    | 4/13  |      |           | Michael |
 |   24    |   W    | 4/15  |      |           | Yahya   |
 |   25    |   M    | 4/20  |      |           | Yash    |
 |   26    |   W    | 4/22  |      |           | Yijie   |
-|   27    |   M    | 4/27  |  Probably final presentations    |           | N/A |
-|   28    |   W    | 4/29  |  Probably final presentations    |           | N/A |
+|   27    |   M    | 4/27  |      |           | TBA |
+|   28    |   W    | 4/29  |      |           | TBA |
 
 ## References
 
@@ -122,6 +122,8 @@ _The topics of the lectures that haven't yet been given are tentative._
 **[Kerodon]** J. Lurie, _Kerodon_, [kerodon.net](https://kerodon.net/).
 
 **[M]** R. Morelli, _The_ $\mathrm{K}$_-theory of a toric variety_, Adv. Math., vol. 100, no. 2, pp. 154–182, 1993. DOI: [10.1006/aima.1993.1032](https://doi.org/10.1006/aima.1993.1032).
+
+**[R]** E. Riehl _Category theory in context_, Aurora Dover Modern Math Originals. Dover Publications, Inc., Mineola, NY, 2016, pp.xvii+240, ISBN: 978-0-486-80903-8;0-486-80903-X, Available at [emilyriehl.github.io/files/context.pdf](https://emilyriehl.github.io/files/context.pdf).
 
 ## Guidelines for typing up the lecture notes
 Before your first time typing up notes, start by looking over the notes from Lectures 1 & 2 along with their LaTeX code.
