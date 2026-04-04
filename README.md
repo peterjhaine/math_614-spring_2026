@@ -34,7 +34,7 @@ In particular, we plan to explain how to deduce a nonequivariant version of the 
 ## Assignments/Grading
 
 ### Lecture notes
-Shortly after every lecture, [below](#lecture-schedule--notes) I will post detailed handwritten notes for the lecture. The main work for this course will be to type up these notes in a class Overleaf/Git Repo. I'll likely edit them a bit after you type them.
+Shortly after every lecture, [below](#lecture-schedule--notes) I will post detailed handwritten notes for the lecture. The only work for this course will be to type up these notes in a class Overleaf/Git Repo. I'll likely edit them a bit after you type them.
 
 I'll type the notes for the first two lectures. 
 In the first week, we'll create a rotating schedule for typing up the notes. 
@@ -47,11 +47,8 @@ Here are the basic expectations:
 
 [Below](#guidelines-for-typing-up-the-lecture-notes) you can find detailed guidelines for typing up the notes.
 
-### Final presentation
-The second component of the course will be an in-class presentation on a topic related to the course, but outside of what we covered. It will be during the last weeks of class. More on this later.
-
 ### Grading scheme
-50% typing up lecture notes + 50% final presentation.
+100% typing up lecture notes.
 
 ## Lecture schedule & notes
 _The topics of the lectures that haven't yet been given are tentative._
