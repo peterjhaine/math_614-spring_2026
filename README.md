@@ -87,7 +87,7 @@ _The topics of the lectures that haven't yet been given are tentative._
 |   18    |   W    | 3/25  | Quasicoherent sheaves on affine toric stacks I <br> [Notes](lecture_notes/03-25-2026.pdf), [Recording](https://youtu.be/CZ63xk6luy0)     | [BH, [§3](https://arxiv.org/pdf/2501.06649#section.3)]          | Yahya   |
 |   19    |   M    | 3/30  | Quasicoherent sheaves on affine toric stacks II <br> [Notes](lecture_notes/03-30-2026.pdf), [Recording](https://youtu.be/pVBzlK-NWOk)    | [BH, [§3](https://arxiv.org/pdf/2501.06649#section.3)], split simplicial objects [Kerodon, [Tag 04S6](https://kerodon.net/tag/04S6)], (co)monadic descent [HA, [§4.7.5](https://www.math.ias.edu/~lurie/papers/HA.pdf#subsection.4.7.5)],           | Yash    |
 |   20    |   W    | 4/1   | Quasicoherent sheaves on affine toric stacks III <br> [Notes](lecture_notes/04-01-2026.pdf), [Recording](https://youtu.be/dmvmiDMSzVQ)    | [BH, [§3.3](https://arxiv.org/pdf/2501.06649#subsection.3.3)], monads [HA; [§4.7](https://www.math.ias.edu/~lurie/papers/HA.pdf#section.4.7); R, [Chapter 5](https://emilyriehl.github.io/files/context.pdf#chapter.5)]          | Yijie   |
-|   21    |   W    | 4/8   |      |           | Baran   |
+|   21    |   W    | 4/8   | Presentability & the six functors <br> [Notes](lecture_notes/04-08-2026.pdf)    |           | Baran   |
 |   22    |   F    | 4/10  |      |           | Jiayi   |
 |   23    |   M    | 4/13  |      |           | Michael |
 |   24    |   W    | 4/15  |      |           | Yahya   |
