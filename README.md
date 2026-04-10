@@ -88,7 +88,7 @@ _The topics of the lectures that haven't yet been given are tentative._
 |   19    |   M    | 3/30  | Quasicoherent sheaves on affine toric stacks II <br> [Notes](lecture_notes/03-30-2026.pdf), [Recording](https://youtu.be/pVBzlK-NWOk)    | [BH, [§3](https://arxiv.org/pdf/2501.06649#section.3)], split simplicial objects [Kerodon, [Tag 04S6](https://kerodon.net/tag/04S6)], (co)monadic descent [HA, [§4.7.5](https://www.math.ias.edu/~lurie/papers/HA.pdf#subsection.4.7.5)],           | Yash    |
 |   20    |   W    | 4/1   | Quasicoherent sheaves on affine toric stacks III <br> [Notes](lecture_notes/04-01-2026.pdf), [Recording](https://youtu.be/dmvmiDMSzVQ)    | [BH, [§3.3](https://arxiv.org/pdf/2501.06649#subsection.3.3)], monads [HA; [§4.7](https://www.math.ias.edu/~lurie/papers/HA.pdf#section.4.7); R, [Chapter 5](https://emilyriehl.github.io/files/context.pdf#chapter.5)]          | Yijie   |
 |   21    |   W    | 4/8   | Presentability & the six functors <br> [Notes](lecture_notes/04-08-2026.pdf), [Recording](https://youtu.be/aCQ59eD5j9c)  | [Kerodon, [Tag 04S6](https://kerodon.net/tag/04KE)]    | Baran   |
-|   22    |   F    | 4/10  |      |           | Jiayi   |
+|   22    |   F    | 4/10  | The six functors & convolution products     | six functors [HM; V], convolution products [BH, [§4.1](https://arxiv.org/pdf/2501.06649#subsection.4.1)]           | Jiayi   |
 |   23    |   M    | 4/13  |      |           | Michael |
 |   24    |   W    | 4/15  |      |           | Yahya   |
 |   25    |   M    | 4/20  |      |           | Yash    |
@@ -98,7 +98,7 @@ _The topics of the lectures that haven't yet been given are tentative._
 
 ## References
 
-**[BH]** Q. Bai and Y. Hu, _Toric mirror symmetry for homotopy theorists_, Jan.2025, [arXiv:2501.06649](https://arxiv.org/abs/2501.06649).
+**[BH]** Q. Bai and Y. Hu, _Toric mirror symmetry for homotopy theorists_, Jan. 2025, [arXiv:2501.06649](https://arxiv.org/abs/2501.06649).
 
 **[C]** B. Cnossen, _Stable homotopy theory and higher algebra_, Book in progress, available at [sites.google.com/view/bastiaan-cnossen/home](https://sites.google.com/view/bastiaan-cnossen/home).
 
@@ -112,6 +112,8 @@ _The topics of the lectures that haven't yet been given are tentative._
 
 **[HA]** J. Lurie, _Higher algebra_, Sep. 2017. Available at [math.ias.edu/~lurie/papers/HA.pdf](https://www.math.ias.edu/~lurie/papers/HA.pdf).
 
+**[HM]** C. Heyer and L. Mann, $6$_-functor formalisms and smooth representations_, Oct. 2024, [arXiv:2410.13038](https://arxiv.org/abs/2410.13038).
+
 **[HTT]** J. Lurie, _Higher topos theory_, Annals of Mathematics Studies. Princeton, NJ: Princeton University Press, 2009, vol. 170, pp. xviii+925, ISBN:978-0-691-14049-0;0-691-14049-9. Available at [math.ias.edu/~lurie/papers/HTT.pdf](https://www.math.ias.edu/~lurie/papers/HTT.pdf).
 
 **[K]** T. Kuwagaki, _The nonequivariant coherent-constructible correspondence for toric stacks_, Duke Math. J., vol. 169, no. 11, pp. 2125–2197, 2020. DOI: [10.1215/00127094-2020-0011](https://doi.org/10.1215/00127094-2020-0011), [arXiv:1610.03214](https://arxiv.org/abs/1610.03214).
@@ -121,6 +123,8 @@ _The topics of the lectures that haven't yet been given are tentative._
 **[M]** R. Morelli, _The_ $\mathrm{K}$_-theory of a toric variety_, Adv. Math., vol. 100, no. 2, pp. 154–182, 1993. DOI: [10.1006/aima.1993.1032](https://doi.org/10.1006/aima.1993.1032).
 
 **[R]** E. Riehl _Category theory in context_, Aurora Dover Modern Math Originals. Dover Publications, Inc., Mineola, NY, 2016, pp.xvii+240, ISBN: 978-0-486-80903-8;0-486-80903-X, Available at [emilyriehl.github.io/files/context.pdf](https://emilyriehl.github.io/files/context.pdf).
+
+**[V]** M. Volpe, _The six operations in topology_, J. Topol., vol. 18, no. 4, Paper No. e70050, 69 pp., 2025. DOI: [110.1112/topo.70050](https://doi.org/110.1112/topo.70050), [arXiv:2110.10212](https://arxiv.org/abs/2110.10212).
 
 ## Guidelines for typing up the lecture notes
 Before your first time typing up notes, start by looking over the notes from Lectures 1 & 2 along with their LaTeX code.
