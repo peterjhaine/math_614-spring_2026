@@ -91,7 +91,7 @@ _The topics of the lectures that haven't yet been given are tentative._
 |   22    |   F    | 4/10  | The six functors & convolution products <br> [Notes](lecture_notes/04-10-2026.pdf), [Recording](https://youtu.be/DxH2mI3SmsE)  | six functors [HM; V], convolution products [BH, [§4.1](https://arxiv.org/pdf/2501.06649#subsection.4.1)]           | Jiayi   |
 |   23    |   M    | 4/13  | From the combinatorial model to constructible sheaves <br> [Notes](lecture_notes/04-13-2026.pdf), [Recording](https://youtu.be/Li8EP0Sdv5A)  |  [BH, §§[4.1](https://arxiv.org/pdf/2501.06649#subsection.4.1)–[4.3](https://arxiv.org/pdf/2501.06649#subsection.4.3)], recognition criterion for locally constant sheaves [[HPT](https://arxiv.org/abs/2010.06473)]         | Michael |
 |   24    |   W    | 4/15  | Descent for idempotent algebras <br> [Notes](lecture_notes/04-15-2026.pdf), [Recording](https://youtu.be/MZ8WnH0zu2M)     |  idempotent algebras [[C-AdRC8](https://www.ihes.fr/~dustin/files/AlgebraicDeRham/Lec8.pdf)], [BH, [§4.5](https://arxiv.org/pdf/2501.06649#subsection.4.5)]         | Yahya   |
-|   25    |   M    | 4/20  | Towards full faithfulness of $\kappa_{\sigma}$ <br> [Notes](lecture_notes/04-20-2026.pdf), [Recording](https://youtu.be/MIn7xseIPJw)  | [BH, [§4.5](https://arxiv.org/pdf/2501.06649#subsection.4.5)], limits of fully faithful functors [HSR, [Proposition 2.1](https://arxiv.org/pdf/2503.03916#equation.2.1)]          | Yash    |
+|   25    |   M    | 4/20  | Towards full faithfulness of $\kappa_{\Sigma}$ <br> [Notes](lecture_notes/04-20-2026.pdf), [Recording](https://youtu.be/MIn7xseIPJw)  | [BH, [§4.5](https://arxiv.org/pdf/2501.06649#subsection.4.5)], limits of fully faithful functors [HSR, [Proposition 2.1](https://arxiv.org/pdf/2503.03916#equation.2.1)]          | Yash    |
 |   26    |   W    | 4/22  |      |           | Yijie   |
 |   27    |   M    | 4/27  |      |           | Michael |
 |   28    |   W    | 4/29  |      |           | TBA |
@@ -116,7 +116,7 @@ _The topics of the lectures that haven't yet been given are tentative._
 
 **[HM]** C. Heyer and L. Mann, $6$_-functor formalisms and smooth representations_, Oct. 2024, [arXiv:2410.13038](https://arxiv.org/abs/2410.13038).
 
-**[HPT]** P. J. Haine, M. Porta, and J.-B. Teyssier, The homotopy-invariance of constructible sheaves, Homology Homotopy Appl., vol.25, no.2, pp. 97–128, 2023. DOI: [10.4310/hha.2023.v25.n2.a6](https://doi.org/10.4310/hha.2023.v25.n2.a6), [arXiv:2010.06473](https://arxiv.org/abs/2010.06473).
+**[HPT]** P. J. Haine, M. Porta, and J.-B. Teyssier, _The homotopy-invariance of constructible sheaves_, Homology Homotopy Appl., vol.25, no.2, pp. 97–128, 2023. DOI: [10.4310/hha.2023.v25.n2.a6](https://doi.org/10.4310/hha.2023.v25.n2.a6), [arXiv:2010.06473](https://arxiv.org/abs/2010.06473).
 
 **[HSR]** P. J. Haine, J. Steinebrunner, and M. Ramzi, _Fully faithful functors and pushouts of ∞-categories_, Mar. 2025, [arXiv:2503.03916](https://arxiv.org/abs/2503.03916).
 
