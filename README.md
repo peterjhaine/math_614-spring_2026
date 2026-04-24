@@ -95,7 +95,7 @@ _The topics of the lectures that haven't yet been given are tentative._
 |   26    |   W    | 4/22  | Compact generators for spectral presheaves & the FLTZ stratification <br> [Notes](lecture_notes/04-22-2026.pdf), [Recording](https://youtu.be/weyovOuR4Bc) | compact generators for spectral presheaves [Rot, [§2.2](https://www.math.ias.edu/~lurie/papers/Waldhaus.pdf#page=9)], the FLTZ stratification [BH, [§4.4](https://arxiv.org/pdf/2501.06649#subsection.4.4)]          | Yijie   |
 |   27    |   M    | 4/27  | Exodromy & finishing the proof that $\kappa_{\Sigma}$ is fully faithful | [BH, [§4.4](https://arxiv.org/pdf/2501.06649#subsection.4.4)]           | Michael |
 |   28    |   W    | 4/29  | Microsupport & microlocal characterization of the image of $\kappa_{\Sigma}$  | [BH, [§5](https://arxiv.org/pdf/2501.06649#section.5)]          | TBA |
-|   29    |   W    | 5/05  | De-equivariantization & loose ends | [BH, [§6.1](https://arxiv.org/pdf/2501.06649#subsection.4.4)]          | TBA |
+|   29    |   M    | 5/04  | De-equivariantization & loose ends | [BH, [§6.1](https://arxiv.org/pdf/2501.06649#subsection.4.4)]          | TBA |
 
 ## References
 
