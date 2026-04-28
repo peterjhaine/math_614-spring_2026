@@ -89,11 +89,11 @@ _The topics of the lectures that haven't yet been given are tentative._
 |   20    |   W    | 4/1   | Quasicoherent sheaves on affine toric stacks III <br> [Notes](lecture_notes/04-01-2026.pdf), [Recording](https://youtu.be/dmvmiDMSzVQ)    | [BH, [§3.3](https://arxiv.org/pdf/2501.06649#subsection.3.3)], monads [HA; [§4.7](https://www.math.ias.edu/~lurie/papers/HA.pdf#section.4.7); R, [Chapter 5](https://emilyriehl.github.io/files/context.pdf#chapter.5)]          | Yijie   |
 |   21    |   W    | 4/8   | Presentability & the six functors <br> [Notes](lecture_notes/04-08-2026.pdf), [Recording](https://youtu.be/aCQ59eD5j9c)  | [Kerodon, [Tag 04S6](https://kerodon.net/tag/04KE)]    | Baran   |
 |   22    |   F    | 4/10  | The six functors & convolution products <br> [Notes](lecture_notes/04-10-2026.pdf), [Recording](https://youtu.be/DxH2mI3SmsE)  | six functors [HM; V], convolution products [BH, [§4.1](https://arxiv.org/pdf/2501.06649#subsection.4.1)]           | Jiayi   |
-|   23    |   M    | 4/13  | From the combinatorial model to constructible sheaves <br> [Notes](lecture_notes/04-13-2026.pdf), [Recording](https://youtu.be/Li8EP0Sdv5A)  |  [BH, §§[4.1](https://arxiv.org/pdf/2501.06649#subsection.4.1)–[4.3](https://arxiv.org/pdf/2501.06649#subsection.4.3)], recognition criterion for locally constant sheaves [[HPT](https://arxiv.org/abs/2010.06473)]         | Michael |
+|   23    |   M    | 4/13  | From the combinatorial model to constructible sheaves <br> [Notes](lecture_notes/04-13-2026.pdf), [Recording](https://youtu.be/Li8EP0Sdv5A)  |  [BH, §§[4.1](https://arxiv.org/pdf/2501.06649#subsection.4.1)–[4.3](https://arxiv.org/pdf/2501.06649#subsection.4.3)], recognition criterion for locally constant sheaves [[HPT1](https://arxiv.org/abs/2010.06473)]         | Michael |
 |   24    |   W    | 4/15  | Descent for idempotent algebras <br> [Notes](lecture_notes/04-15-2026.pdf), [Recording](https://youtu.be/MZ8WnH0zu2M)     |  idempotent algebras [[C-AdRC8](https://www.ihes.fr/~dustin/files/AlgebraicDeRham/Lec8.pdf)], [BH, [§4.5](https://arxiv.org/pdf/2501.06649#subsection.4.5)]         | Yahya   |
 |   25    |   M    | 4/20  | Towards full faithfulness of $\kappa_{\Sigma}$ <br> [Notes](lecture_notes/04-20-2026.pdf), [Recording](https://youtu.be/MIn7xseIPJw)  | [BH, [§4.5](https://arxiv.org/pdf/2501.06649#subsection.4.5)], limits of fully faithful functors [HSR, [Proposition 2.1](https://arxiv.org/pdf/2503.03916#equation.2.1)]          | Yash    |
 |   26    |   W    | 4/22  | Compact generators for spectral presheaves & the FLTZ stratification <br> [Notes](lecture_notes/04-22-2026.pdf), [Recording](https://youtu.be/weyovOuR4Bc) | compact generators for spectral presheaves [Rot, [§2.2](https://www.math.ias.edu/~lurie/papers/Waldhaus.pdf#page=9)], the FLTZ stratification [BH, [§4.4](https://arxiv.org/pdf/2501.06649#subsection.4.4)]          | Yijie   |
-|   27    |   M    | 4/27  | Exodromy & finishing the proof that $\kappa_{\Sigma}$ is fully faithful | [BH, [§4.4](https://arxiv.org/pdf/2501.06649#subsection.4.4)]           | Michael |
+|   27    |   M    | 4/27  | Exodromy & finishing the proof that $\kappa_{\Sigma}$ is fully faithful <br> [Notes](lecture_notes/04-27-2026.pdf), [Recording](https://youtu.be/aHzylRZBLIw)) | [BH, [§4.4](https://arxiv.org/pdf/2501.06649#subsection.4.4)], baby case of exodromy [CJ, [Theorem 3.4](https://arxiv.org/pdf/2108.01924#theorem.3.4)], exodromy in general [[HPT2](https://arxiv.org/abs/2401.12825)]          | Michael |
 |   28    |   W    | 4/29  | Microsupport & microlocal characterization of the image of $\kappa_{\Sigma}$  | [BH, [§5](https://arxiv.org/pdf/2501.06649#section.5)]          | TBA |
 |   29    |   M    | 5/04  | De-equivariantization & loose ends | [BH, [§6.1](https://arxiv.org/pdf/2501.06649#subsection.4.4)]          | TBA |
 
@@ -104,6 +104,8 @@ _The topics of the lectures that haven't yet been given are tentative._
 **[C-AdRC8]** D. Clausen, _Lecture 8: Derived quasi-coherent sheaves_, Lecture notes for _Algebraic de Rham cohomology_, available at [ihes.fr/~dustin/files/AlgebraicDeRham/Lec8.pdf](https://www.ihes.fr/~dustin/files/AlgebraicDeRham/Lec8.pdf).
 
 **[C]** B. Cnossen, _Stable homotopy theory and higher algebra_, Book in progress, available at [sites.google.com/view/bastiaan-cnossen/home](https://sites.google.com/view/bastiaan-cnossen/home).
+
+**[CJ]** D. Clausen and M. Ø. Jansen, _The reductive Borel–Serre compactification as a model for unstable algebraic $\mathrm{K}$-theory_, Selecta Math. (N.S.), vol. 30, no. 1, Paper No. 10, 93, 2024. DOI: [10.1007/s00029-023-00900-8](https://doi.org/10.1007/s00029-023-00900-8), [arXiv:2108.01924](https://arxiv.org/abs/2108.01924).
 
 **[CSY]** S. Carmeli, T. M. Schlank, and L. Yanovski, _Ambidexterity and height_, Adv. Math., vol. 385, Paper No. 107763, 90, 2021. DOI: [10.1016/j.aim.2021.107763](https://doi.org/10.1016/j.aim.2021.107763), [arXiv:2007.13089](https://arxiv.org/abs/2007.13089).
 
@@ -117,7 +119,9 @@ _The topics of the lectures that haven't yet been given are tentative._
 
 **[HM]** C. Heyer and L. Mann, $6$_-functor formalisms and smooth representations_, Oct. 2024, [arXiv:2410.13038](https://arxiv.org/abs/2410.13038).
 
-**[HPT]** P. J. Haine, M. Porta, and J.-B. Teyssier, _The homotopy-invariance of constructible sheaves_, Homology Homotopy Appl., vol.25, no.2, pp. 97–128, 2023. DOI: [10.4310/hha.2023.v25.n2.a6](https://doi.org/10.4310/hha.2023.v25.n2.a6), [arXiv:2010.06473](https://arxiv.org/abs/2010.06473).
+**[HPT1]** P. J. Haine, M. Porta, and J.-B. Teyssier, _The homotopy-invariance of constructible sheaves_, Homology Homotopy Appl., vol.25, no.2, pp. 97–128, 2023. DOI: [10.4310/hha.2023.v25.n2.a6](https://doi.org/10.4310/hha.2023.v25.n2.a6), [arXiv:2010.06473](https://arxiv.org/abs/2010.06473).
+
+**[HPT2]** P. J. Haine, M. Porta, and J.-B. Teyssier, _Exodromy beyond conicality_, Jan. 2024, [arXiv:2401.12825](https://arxiv.org/abs/2401.12825).
 
 **[HSR]** P. J. Haine, J. Steinebrunner, and M. Ramzi, _Fully faithful functors and pushouts of ∞-categories_, Mar. 2025, [arXiv:2503.03916](https://arxiv.org/abs/2503.03916).
 
