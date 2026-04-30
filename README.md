@@ -94,8 +94,8 @@ _The topics of the lectures that haven't yet been given are tentative._
 |   25    |   M    | 4/20  | Towards full faithfulness of $\kappa_{\Sigma}$ <br> [Notes](lecture_notes/04-20-2026.pdf), [Recording](https://youtu.be/MIn7xseIPJw)  | [BH, [§4.5](https://arxiv.org/pdf/2501.06649#subsection.4.5)], limits of fully faithful functors [HSR, [Proposition 2.1](https://arxiv.org/pdf/2503.03916#equation.2.1)]          | Yash    |
 |   26    |   W    | 4/22  | Compact generators for spectral presheaves & the FLTZ stratification <br> [Notes](lecture_notes/04-22-2026.pdf), [Recording](https://youtu.be/weyovOuR4Bc) | compact generators for spectral presheaves [Rot, [§2.2](https://www.math.ias.edu/~lurie/papers/Waldhaus.pdf#page=9)], the FLTZ stratification [BH, [§4.4](https://arxiv.org/pdf/2501.06649#subsection.4.4)]          | Yijie   |
 |   27    |   M    | 4/27  | Exodromy & finishing the proof that $\kappa_{\Sigma}$ is fully faithful <br> [Notes](lecture_notes/04-27-2026.pdf), [Recording](https://youtu.be/aHzylRZBLIw) | [BH, [§4.4](https://arxiv.org/pdf/2501.06649#subsection.4.4)], baby case of exodromy [CJ, [Theorem 3.4](https://arxiv.org/pdf/2108.01924#theorem.3.4)], exodromy in general [[HPT2](https://arxiv.org/abs/2401.12825)]          | Michael |
-|   28    |   W    | 4/29  | Microsupport & microlocal characterization of the image of $\kappa_{\Sigma}$  | [BH, [§5](https://arxiv.org/pdf/2501.06649#section.5)]          | TBA |
-|   29    |   M    | 5/04  | De-equivariantization & loose ends | [BH, [§6.1](https://arxiv.org/pdf/2501.06649#subsection.4.4)]          | TBA |
+|   28    |   W    | 4/29  | Microlocal characterization of the image of $\kappa_{\Sigma}$ <br> [Notes](lecture_notes/04-29-2026.pdf)  | [BH, [§5](https://arxiv.org/pdf/2501.06649#section.5)], microsupport [KS] | Baran/Yijie |
+|   29    |   M    | 5/04  | De-equivariantization & loose ends | [BH, [§6.1](https://arxiv.org/pdf/2501.06649#subsection.4.4)]          | Baran/Yijie |
 
 ## References
 
@@ -130,6 +130,8 @@ _The topics of the lectures that haven't yet been given are tentative._
 **[K]** T. Kuwagaki, _The nonequivariant coherent-constructible correspondence for toric stacks_, Duke Math. J., vol. 169, no. 11, pp. 2125–2197, 2020. DOI: [10.1215/00127094-2020-0011](https://doi.org/10.1215/00127094-2020-0011), [arXiv:1610.03214](https://arxiv.org/abs/1610.03214).
 
 **[Kerodon]** J. Lurie, _Kerodon_, [kerodon.net](https://kerodon.net/).
+
+**[KS]** M. Kashiwara and P. Schapira, _Sheaves on manifolds_, Grundlehren der mathematischen Wis- senschaften. Springer-Verlag, Berlin, 1994, vol.292, pp.x+512, ISBN: [3-540-51861-4](https://link.springer.com/book/10.1007/978-3-662-02661-8), With a chapter in French by Christian Houzel, Corrected reprint of the 1990 original.
 
 **[M]** R. Morelli, _The_ $\mathrm{K}$_-theory of a toric variety_, Adv. Math., vol. 100, no. 2, pp. 154–182, 1993. DOI: [10.1006/aima.1993.1032](https://doi.org/10.1006/aima.1993.1032).
 
