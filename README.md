@@ -94,8 +94,9 @@ _The topics of the lectures that haven't yet been given are tentative._
 |   25    |   M    | 4/20  | Towards full faithfulness of $\kappa_{\Sigma}$ <br> [Notes](lecture_notes/04-20-2026.pdf), [Recording](https://youtu.be/MIn7xseIPJw)  | [BH, [§4.5](https://arxiv.org/pdf/2501.06649#subsection.4.5)], limits of fully faithful functors [HSR, [Proposition 2.1](https://arxiv.org/pdf/2503.03916#equation.2.1)]          | Yash    |
 |   26    |   W    | 4/22  | Compact generators for spectral presheaves & the FLTZ stratification <br> [Notes](lecture_notes/04-22-2026.pdf), [Recording](https://youtu.be/weyovOuR4Bc) | compact generators for spectral presheaves [Rot, [§2.2](https://www.math.ias.edu/~lurie/papers/Waldhaus.pdf#page=9)], the FLTZ stratification [BH, [§4.4](https://arxiv.org/pdf/2501.06649#subsection.4.4)]          | Yijie   |
 |   27    |   M    | 4/27  | Exodromy & finishing the proof that $\kappa_{\Sigma}$ is fully faithful <br> [Notes](lecture_notes/04-27-2026.pdf), [Recording](https://youtu.be/aHzylRZBLIw) | [BH, [§4.4](https://arxiv.org/pdf/2501.06649#subsection.4.4)], baby case of exodromy [CJ, [Theorem 3.4](https://arxiv.org/pdf/2108.01924#theorem.3.4)], exodromy in general [[HPT2](https://arxiv.org/abs/2401.12825)]          | Michael |
-|   28    |   W    | 4/29  | Microlocal characterization of the image of $\kappa_{\Sigma}$ <br> [Notes](lecture_notes/04-29-2026.pdf), [Recording](https://youtu.be/ZMbDf1mqWOI)  | [BH, [§5](https://arxiv.org/pdf/2501.06649#section.5)], microsupport [KS] | Baran/Yijie |
-|   29    |   M    | 5/04  | De-equivariantization & loose ends | [BH, [§6.1](https://arxiv.org/pdf/2501.06649#subsection.4.4)]          | Baran/Yijie |
+|   28    |   W    | 4/29  | Statement of the microlocal characterization of the image of $\kappa_{\Sigma}$ <br> [Notes](lecture_notes/04-29-2026.pdf), [Recording](https://youtu.be/ZMbDf1mqWOI)  | [BH, [§5](https://arxiv.org/pdf/2501.06649#section.5)], microsupport [KS] | Baran/Yijie |
+|   29    |   M    | 5/04  | Sketch of the microlocal characterization of the image of $\kappa_{\Sigma}$ | [BH, §§[5.2](https://arxiv.org/pdf/2501.06649#subsection.5.2)–[5.3](https://arxiv.org/pdf/2501.06649#subsection.5.2)]          | Baran/Yijie |
+|   30    |   F    | 5/08  | De-equivariantization | [BH, [§6.1](https://arxiv.org/pdf/2501.06649#subsection.6.1)]          | TBD |
 
 ## References
 
@@ -105,7 +106,7 @@ _The topics of the lectures that haven't yet been given are tentative._
 
 **[C]** B. Cnossen, _Stable homotopy theory and higher algebra_, Book in progress, available at [sites.google.com/view/bastiaan-cnossen/home](https://sites.google.com/view/bastiaan-cnossen/home).
 
-**[CJ]** D. Clausen and M. Ø. Jansen, _The reductive Borel–Serre compactification as a model for unstable algebraic $\mathrm{K}$-theory_, Selecta Math. (N.S.), vol. 30, no. 1, Paper No. 10, 93, 2024. DOI: [10.1007/s00029-023-00900-8](https://doi.org/10.1007/s00029-023-00900-8), [arXiv:2108.01924](https://arxiv.org/abs/2108.01924).
+**[CJ]** D. Clausen and M. Ø. Jansen, _The reductive Borel–Serre compactification as a model for unstable algebraic_ $\mathrm{K}$_-theory_, Selecta Math. (N.S.), vol. 30, no. 1, Paper No. 10, 93, 2024. DOI: [10.1007/s00029-023-00900-8](https://doi.org/10.1007/s00029-023-00900-8), [arXiv:2108.01924](https://arxiv.org/abs/2108.01924).
 
 **[CSY]** S. Carmeli, T. M. Schlank, and L. Yanovski, _Ambidexterity and height_, Adv. Math., vol. 385, Paper No. 107763, 90, 2021. DOI: [10.1016/j.aim.2021.107763](https://doi.org/10.1016/j.aim.2021.107763), [arXiv:2007.13089](https://arxiv.org/abs/2007.13089).
 
