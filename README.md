@@ -95,7 +95,7 @@ _The topics of the lectures that haven't yet been given are tentative._
 |   26    |   W    | 4/22  | Compact generators for spectral presheaves & the FLTZ stratification <br> [Notes](lecture_notes/04-22-2026.pdf), [Recording](https://youtu.be/weyovOuR4Bc) | compact generators for spectral presheaves [Rot, [§2.2](https://www.math.ias.edu/~lurie/papers/Waldhaus.pdf#page=9)], the FLTZ stratification [BH, [§4.4](https://arxiv.org/pdf/2501.06649#subsection.4.4)]          | Yijie   |
 |   27    |   M    | 4/27  | Exodromy & finishing the proof that $\kappa_{\Sigma}$ is fully faithful <br> [Notes](lecture_notes/04-27-2026.pdf), [Recording](https://youtu.be/aHzylRZBLIw) | [BH, [§4.4](https://arxiv.org/pdf/2501.06649#subsection.4.4)], baby case of exodromy [CJ, [Theorem 3.4](https://arxiv.org/pdf/2108.01924#theorem.3.4)], exodromy in general [[HPT2](https://arxiv.org/abs/2401.12825)]          | Michael |
 |   28    |   W    | 4/29  | Statement of the microlocal characterization of the image of $\kappa_{\Sigma}$ <br> [Notes](lecture_notes/04-29-2026.pdf), [Recording](https://youtu.be/ZMbDf1mqWOI)  | [BH, [§5](https://arxiv.org/pdf/2501.06649#section.5)], microsupport [KS] | Baran/Yijie |
-|   29    |   M    | 5/04  | Sketch of the microlocal characterization of the image of $\kappa_{\Sigma}$ <br> [Notes](lecture_notes/05-04-2026.pdf)  | [BH, §§[5.2](https://arxiv.org/pdf/2501.06649#subsection.5.2)–[5.3](https://arxiv.org/pdf/2501.06649#subsection.5.2)]         | Baran/Yijie |
+|   29    |   M    | 5/04  | Sketch of the microlocal characterization of the image of $\kappa_{\Sigma}$ <br> [Notes](lecture_notes/05-04-2026.pdf)  | [BH, §§[5.2](https://arxiv.org/pdf/2501.06649#subsection.5.2)–[5.3](https://arxiv.org/pdf/2501.06649#subsection.5.3)], orthogonal complements of subcategories [SAG, [§7.2.1](https://www.math.ias.edu/~lurie/papers/SAG-rootfile.pdf#subsection.7.2.1)]         | Baran/Yijie |
 |   30    |   F    | 5/08  | De-equivariantization | [BH, [§6.1](https://arxiv.org/pdf/2501.06649#subsection.6.1)]          | TBD |
 
 ## References
@@ -138,7 +138,9 @@ _The topics of the lectures that haven't yet been given are tentative._
 
 **[R]** E. Riehl _Category theory in context_, Aurora Dover Modern Math Originals. Dover Publications, Inc., Mineola, NY, 2016, pp.xvii+240, ISBN: 978-0-486-80903-8;0-486-80903-X, Available at [emilyriehl.github.io/files/context.pdf](https://emilyriehl.github.io/files/context.pdf).
 
-**[Rot]** J. Lurie, _Rotation invariance in algebraic $\mathrm{K}$-theory_, Sep. 2015. Available at [math.ias.edu/~lurie/papers/Waldhaus.pdf](https://www.math.ias.edu/~lurie/papers/Waldhaus.pdf).
+**[Rot]** J. Lurie, _Rotation invariance in algebraic_ $\mathrm{K}$_-theory_, Sep. 2015. Available at [math.ias.edu/~lurie/papers/Waldhaus.pdf](https://www.math.ias.edu/~lurie/papers/Waldhaus.pdf).
+
+**[SAG]** J. Lurie, _Spectral algebraic geometry_, Feb. 2018. Available at [math.ias.edu/~lurie/papers/SAG-rootfile.pdf](https://www.math.ias.edu/~lurie/papers/SAG-rootfile.pdf).
 
 **[V]** M. Volpe, _The six operations in topology_, J. Topol., vol. 18, no. 4, Paper No. e70050, 69 pp., 2025. DOI: [110.1112/topo.70050](https://doi.org/110.1112/topo.70050), [arXiv:2110.10212](https://arxiv.org/abs/2110.10212).
 
