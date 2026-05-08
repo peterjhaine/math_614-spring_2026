@@ -96,7 +96,7 @@ _The topics of the lectures that haven't yet been given are tentative._
 |   27    |   M    | 4/27  | Exodromy & finishing the proof that $\kappa_{\Sigma}$ is fully faithful <br> [Notes](lecture_notes/04-27-2026.pdf), [Recording](https://youtu.be/aHzylRZBLIw) | [BH, [§4.4](https://arxiv.org/pdf/2501.06649#subsection.4.4)], baby case of exodromy [CJ, [Theorem 3.4](https://arxiv.org/pdf/2108.01924#theorem.3.4)], exodromy in general [[HPT2](https://arxiv.org/abs/2401.12825)]          | Michael |
 |   28    |   W    | 4/29  | Statement of the microlocal characterization of the image of $\kappa_{\Sigma}$ <br> [Notes](lecture_notes/04-29-2026.pdf), [Recording](https://youtu.be/ZMbDf1mqWOI)  | [BH, [§5](https://arxiv.org/pdf/2501.06649#section.5)], microsupport [KS] | Baran/Yijie |
 |   29    |   M    | 5/04  | Sketch of the microlocal characterization of the image of $\kappa_{\Sigma}$ <br> [Notes](lecture_notes/05-04-2026.pdf), [Recording](https://youtu.be/ScBPwwI8AC4)  | [BH, §§[5.2](https://arxiv.org/pdf/2501.06649#subsection.5.2)–[5.3](https://arxiv.org/pdf/2501.06649#subsection.5.3)], orthogonal complements of subcategories [SAG, [§7.2.1](https://www.math.ias.edu/~lurie/papers/SAG-rootfile.pdf#subsection.7.2.1)]         | Baran/Yijie |
-|   30    |   F    | 5/08  | De-equivariantization | [BH, [§6.1](https://arxiv.org/pdf/2501.06649#subsection.6.1)]          | TBD |
+|   30    |   F    | 5/08  | De-equivariantization <br> [Notes](lecture_notes/05-08-2026.pdf) | [BH, [§6.1](https://arxiv.org/pdf/2501.06649#subsection.6.1)], , perfect stacks [[BZFN](https://arxiv.org/abs/0805.0157); SAG, §§[9.4.3](https://www.math.ias.edu/~lurie/papers/SAG-rootfile.pdf#subsection.9.4.3)–[9.4.4](https://www.math.ias.edu/~lurie/papers/SAG-rootfile.pdf#subsection.9.4.4)]          | TBD |
 
 ## References
 
@@ -109,6 +109,8 @@ _The topics of the lectures that haven't yet been given are tentative._
 **[CJ]** D. Clausen and M. Ø. Jansen, _The reductive Borel–Serre compactification as a model for unstable algebraic_ $\mathrm{K}$_-theory_, Selecta Math. (N.S.), vol. 30, no. 1, Paper No. 10, 93, 2024. DOI: [10.1007/s00029-023-00900-8](https://doi.org/10.1007/s00029-023-00900-8), [arXiv:2108.01924](https://arxiv.org/abs/2108.01924).
 
 **[CSY]** S. Carmeli, T. M. Schlank, and L. Yanovski, _Ambidexterity and height_, Adv. Math., vol. 385, Paper No. 107763, 90, 2021. DOI: [10.1016/j.aim.2021.107763](https://doi.org/10.1016/j.aim.2021.107763), [arXiv:2007.13089](https://arxiv.org/abs/2007.13089).
+
+**[BZFN]** D. Ben-Zvi, J. Francis, and D. Nadler, _Integral transforms and Drinfeld centers in derived algebraic geometry_, J. Amer. Math. Soc., vol.23, no.4, pp.909–966, 2010. DOI: [10.1090/S0894-0347-10-00669-7](https://doi.org/10.1090/S0894-0347-10-00669-7), [arXiv:0805.0157](https://arxiv.org/abs/0805.0157).
 
 **[F]** W. Fulton, _Introduction to toric varieties_, Annals of Mathematics Studies. Princeton University Press, Princeton, NJ, 1993, vol. 131, pp. xii+157, ISBN: 0-691-00049-2. DOI: [10.1515/9781400882526](https://doi.org/10.1515/9781400882526), The William H. Roever Lectures in Geometry.
 
